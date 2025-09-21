@@ -1,0 +1,723 @@
+name ,company,Year,Year_range,Price,Price_Range,kms_driven,Kms_drive,km_Range,fuel_type
+Hyundai Grand i10 Magna 1.2 Kappa VTVT,Hyundai,2014,2009-2014,325000,1L-10L,"28,000 kms",28000,10k-30k,Petrol
+Ford EcoSport Titanium 1.5L TDCi,Ford,2014,2009-2014,575000,1L-10L,"36,000 kms",36000,30k-60k,Diesel
+Ford Figo,Ford,2012,2009-2014,175000,1L-10L,"41,000 kms",41000,30k-60k,Diesel
+Hyundai Eon,Hyundai,2013,2009-2014,190000,1L-10L,"25,000 kms",25000,10k-30k,Petrol
+Ford EcoSport Ambiente 1.5L TDCi,Ford,2016,2014-2019,830000,1L-10L,"24,530 kms",24530,10k-30k,Diesel
+Maruti Suzuki Alto K10 VXi AMT,Maruti,2015,2014-2019,250000,1L-10L,"60,000 kms",60000,30k-60k,Petrol
+Skoda Fabia Classic 1.2 MPI,Skoda,2010,2009-2014,182000,1L-10L,"60,000 kms",60000,30k-60k,Petrol
+Maruti Suzuki Stingray VXi,Maruti,2015,2014-2019,315000,1L-10L,"30,000 kms",30000,10k-30k,Petrol
+Hyundai Elite i20 Magna 1.2,Hyundai,2014,2009-2014,415000,1L-10L,"32,000 kms",32000,30k-60k,Petrol
+Mahindra Scorpio SLE BS IV,Mahindra,2015,2014-2019,320000,1L-10L,"48,660 kms",48660,30k-60k,Diesel
+Audi A8,Audi,2017,2014-2019,1000000,1L-10L,"4,000 kms",4000,0k-5k,Petrol
+Audi Q7,Audi,2014,2009-2014,500000,1L-10L,"16,934 kms",16934,10k-30k,Diesel
+Mahindra Scorpio S10,Mahindra,2016,2014-2019,350000,1L-10L,"43,000 kms",43000,30k-60k,Diesel
+Maruti Suzuki Alto 800,Maruti,2014,2009-2014,160000,1L-10L,"35,550 kms",35550,30k-60k,Petrol
+Mahindra Scorpio S10,Mahindra,2016,2014-2019,310000,1L-10L,"39,522 kms",39522,30k-60k,Diesel
+Maruti Suzuki Alto 800 Vxi,Maruti,2015,2014-2019,75000,30k-1L,"39,000 kms",39000,30k-60k,Petrol
+Hyundai i20 Sportz 1.2,Hyundai,2012,2009-2014,100000,30k-1L,"55,000 kms",55000,30k-60k,Petrol
+Maruti Suzuki Alto 800 Lx,Maruti,2017,2014-2019,190000,1L-10L,"72,000 kms",72000,60k-1L,Petrol
+Maruti Suzuki Vitara Brezza ZDi,Maruti,2016,2014-2019,290000,1L-10L,"15,975 kms",15975,10k-30k,Diesel
+Maruti Suzuki Alto LX,Maruti,2008,2005-2009,95000,30k-1L,"70,000 kms",70000,60k-1L,Petrol
+Mahindra Bolero DI,Mahindra,2017,2014-2019,180000,1L-10L,"23,452 kms",23452,10k-30k,Diesel
+Maruti Suzuki Swift Dzire ZDi,Maruti,2014,2009-2014,385000,1L-10L,"35,522 kms",35522,30k-60k,Diesel
+Mahindra Scorpio S10 4WD,Mahindra,2015,2014-2019,250000,1L-10L,"48,508 kms",48508,30k-60k,Diesel
+Maruti Suzuki Swift Vdi BSIII,Maruti,2017,2014-2019,180000,1L-10L,"15,487 kms",15487,10k-30k,Petrol
+Maruti Suzuki Wagon R VXi BS III,Maruti,2013,2009-2014,105000,1L-10L,"39,000 kms",39000,30k-60k,Petrol
+Maruti Suzuki Wagon R VXi Minor,Maruti,2013,2009-2014,105000,1L-10L,"39,000 kms",39000,30k-60k,Petrol
+Toyota Innova 2.0 G 8 STR BS IV,Toyota,2012,2009-2014,650000,1L-10L,"82,000 kms",82000,60k-1L,Diesel
+Renault Lodgy 85 PS RXL,Renault,2018,2014-2019,689999,1L-10L,"20,000 kms",20000,10k-30k,Diesel
+Skoda Yeti Ambition 2.0 TDI CR 4x2,Skoda,2012,2009-2014,448000,1L-10L,"68,000 kms",68000,60k-1L,Diesel
+Maruti Suzuki Baleno Delta 1.2,Maruti,2017,2014-2019,549000,1L-10L,"32,000 kms",32000,30k-60k,Diesel
+Renault Duster 110 PS RxZ Diesel Plus,Renault,2012,2009-2014,501000,1L-10L,"38,000 kms",38000,30k-60k,Diesel
+Renault Duster 85 PS RxE Diesel,Renault,2013,2009-2014,489999,1L-10L,"27,000 kms",27000,10k-30k,Diesel
+Honda City 1.5 S MT,Honda,2011,2009-2014,280000,1L-10L,"33,000 kms",33000,30k-60k,Petrol
+Maruti Suzuki Dzire,Maruti,2013,2009-2014,349999,1L-10L,"46,000 kms",46000,30k-60k,Diesel
+Honda Amaze,Honda,2013,2009-2014,284999,1L-10L,"46,000 kms",46000,30k-60k,Diesel
+Honda Amaze 1.5 SX i DTEC,Honda,2015,2014-2019,345000,1L-10L,"36,000 kms",36000,30k-60k,Diesel
+Honda City,Honda,2015,2014-2019,499999,1L-10L,"55,000 kms",55000,30k-60k,Petrol
+Datsun Redi GO S,Datsun,2017,2014-2019,235000,1L-10L,"16,000 kms",16000,10k-30k,Petrol
+Maruti Suzuki SX4 ZXI MT,Maruti,2010,2009-2014,249999,1L-10L,"36,000 kms",36000,30k-60k,Petrol
+Mitsubishi Pajero Sport Limited Edition,Mitsubishi,2015,2014-2019,1475000,10L-30L,"47,000 kms",47000,30k-60k,Diesel
+Mahindra Scorpio S10,Mahindra,2015,2014-2019,395000,1L-10L,"35,000 kms",35000,30k-60k,Diesel
+Maruti Suzuki Swift VXi 1.2 ABS BS IV,Maruti,2017,2014-2019,220000,1L-10L,"30,874 kms",30874,30k-60k,Petrol
+Honda City ZX CVT,Honda,2017,2014-2019,170000,1L-10L,"15,000 kms",15000,10k-30k,Diesel
+Maruti Suzuki Wagon R LX BS IV,Maruti,2013,2009-2014,85000,30k-1L,"29,685 kms",29685,10k-30k,Petrol
+Tata Indigo eCS LS CR4 BS IV,Tata,2017,2014-2019,200000,1L-10L,"1,30,000 kms",130000,1L-1.5L,Diesel
+Mahindra Scorpio SLE BS IV,Mahindra,2012,2009-2014,570000,1L-10L,"19,000 kms",19000,10k-30k,Diesel
+Volkswagen Polo Highline Exquisite P,Volkswagen,2014,2009-2014,315000,1L-10L,"60,000 kms",60000,30k-60k,Petrol
+Chevrolet Spark LS 1.0,Chevrolet,2010,2009-2014,110000,1L-10L,"41,000 kms",41000,30k-60k,Petrol
+Renault Duster 110PS Diesel RxZ,Renault,2012,2009-2014,501000,1L-10L,"35,000 kms",35000,30k-60k,Diesel
+Honda City,Honda,2015,2014-2019,448999,1L-10L,"54,000 kms",54000,30k-60k,Petrol
+Mini Cooper S 1.6,Mini,2013,2009-2014,1891111,10L-30L,"13,000 kms",13000,10k-30k,Petrol
+Skoda Fabia 1.2L Diesel Ambiente,Skoda,2011,2009-2014,159500,1L-10L,"38,200 kms",38200,30k-60k,Diesel
+Honda Amaze,Honda,2015,2014-2019,344999,1L-10L,"22,000 kms",22000,10k-30k,Petrol
+Renault Duster,Renault,2014,2009-2014,449999,1L-10L,"50,000 kms",50000,30k-60k,Diesel
+Mini Cooper S 1.6,Mini,2013,2009-2014,1891111,10L-30L,"13,500 kms",13500,10k-30k,Petrol
+Mahindra Scorpio S4,Mahindra,2015,2014-2019,865000,1L-10L,"30,000 kms",30000,10k-30k,Diesel
+Mahindra Scorpio VLX 2WD BS IV,Mahindra,2014,2009-2014,699000,1L-10L,"50,000 kms",50000,30k-60k,Diesel
+Mahindra Quanto C8,Mahindra,2013,2009-2014,375000,1L-10L,"20,000 kms",20000,10k-30k,Diesel
+Ford EcoSport,Ford,2017,2014-2019,489999,1L-10L,"39,000 kms",39000,30k-60k,Petrol
+Honda Brio,Honda,2012,2009-2014,224999,1L-10L,"30,000 kms",30000,10k-30k,Petrol
+Volkswagen Vento Highline Plus 1.5 Diesel AT,Volkswagen,2019,2014-2019,1200000,10L-30L,"3,600 kms",3600,0k-5k,Diesel
+Hyundai i20 Magna,Hyundai,2009,2005-2009,195000,1L-10L,"32,000 kms",32000,30k-60k,Petrol
+Toyota Corolla Altis Diesel D4DG,Toyota,2010,2009-2014,351000,1L-10L,"38,000 kms",38000,30k-60k,Diesel
+Hyundai Verna Transform SX VTVT,Hyundai,2008,2005-2009,160000,1L-10L,"45,000 kms",45000,30k-60k,Petrol
+Toyota Corolla Altis Petrol Ltd,Toyota,2009,2005-2009,240000,1L-10L,"35,000 kms",35000,30k-60k,Petrol
+Honda City 1.5 EXi New,Honda,2005,2005-2009,90000,30k-1L,"50,000 kms",50000,30k-60k,Petrol
+Skoda Fabia 1.2L Diesel Elegance,Skoda,2011,2009-2014,155000,1L-10L,"45,863 kms",45863,30k-60k,Diesel
+BMW 3 Series 320i,BMW,2011,2009-2014,600000,1L-10L,"60,500 kms",60500,60k-1L,Petrol
+Maruti Suzuki A Star Lxi,Maruti,2011,2009-2014,189500,1L-10L,"12,500 kms",12500,10k-30k,Petrol
+Toyota Etios GD,Toyota,2013,2009-2014,350000,1L-10L,"60,000 kms",60000,30k-60k,Diesel
+Ford Figo Diesel EXI Option,Ford,2012,2009-2014,210000,1L-10L,"35,000 kms",35000,30k-60k,Diesel
+Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,2014,2009-2014,390000,1L-10L,"35,000 kms",35000,30k-60k,Petrol
+Chevrolet Beat LT Diesel,Chevrolet,2012,2009-2014,135000,1L-10L,"45,000 kms",45000,30k-60k,Diesel
+BMW 7 Series 740Li Sedan,BMW,2009,2005-2009,1600000,10L-30L,"35,000 kms",35000,30k-60k,Petrol
+Mahindra XUV500 W8 AWD 2013,Mahindra,2013,2009-2014,701000,1L-10L,"38,000 kms",38000,30k-60k,Diesel
+Hyundai i10 Magna 1.2,Hyundai,2014,2009-2014,265000,1L-10L,"18,000 kms",18000,10k-30k,Petrol
+Hyundai Verna Fluidic New,Hyundai,2015,2014-2019,525000,1L-10L,"35,000 kms",35000,30k-60k,Diesel
+Maruti Suzuki Swift VXi 1.2 BS IV,Maruti,2013,2009-2014,372000,1L-10L,"13,349 kms",13349,10k-30k,Petrol
+Maruti Suzuki Ertiga ZXI Plus,Maruti,2016,2014-2019,635000,1L-10L,"29,000 kms",29000,10k-30k,Petrol
+Ford EcoSport Titanium 1.5L TDCi,Ford,2014,2009-2014,550000,1L-10L,"44,000 kms",44000,30k-60k,Diesel
+Maruti Suzuki Ertiga Vxi,Maruti,2016,2014-2019,575000,1L-10L,"29,000 kms",29000,10k-30k,Petrol
+Maruti Suzuki Ertiga VDi,Maruti,2013,2009-2014,485000,1L-10L,"42,000 kms",42000,30k-60k,Diesel
+Maruti Suzuki Alto LXi BS III,Maruti,2012,2009-2014,155000,1L-10L,"14,000 kms",14000,10k-30k,Petrol
+Hyundai Grand i10 Asta 1.1 CRDi,Hyundai,2014,2009-2014,345000,1L-10L,"49,000 kms",49000,30k-60k,Diesel
+Honda Amaze 1.2 S i VTEC,Honda,2014,2009-2014,325000,1L-10L,"42,000 kms",42000,30k-60k,Petrol
+Hyundai i20 Asta 1.4 CRDI 6 Speed,Hyundai,2012,2009-2014,329500,1L-10L,"36,200 kms",36200,30k-60k,Diesel
+Ford Figo Diesel EXI,Ford,2014,2009-2014,195000,1L-10L,"50,000 kms",50000,30k-60k,Diesel
+Maruti Suzuki Eeco 5 STR WITH AC HTR,Maruti,2015,2014-2019,251111,1L-10L,"55,000 kms",55000,30k-60k,Petrol
+Maruti Suzuki Ertiga ZXi,Maruti,2014,2009-2014,569999,1L-10L,"45,000 kms",45000,30k-60k,Petrol
+Maruti Suzuki Esteem LXi BS III,Maruti,2007,2005-2009,69999,30k-1L,"51,000 kms",51000,30k-60k,Petrol
+Maruti Suzuki Ritz VXI,Maruti,2014,2009-2014,299999,1L-10L,"19,000 kms",19000,10k-30k,Petrol
+Maruti Suzuki Dzire,Maruti,2009,2005-2009,220000,1L-10L,"46,000 kms",46000,30k-60k,Petrol
+Maruti Suzuki Ritz LDi,Maruti,2013,2009-2014,399999,1L-10L,"33,000 kms",33000,30k-60k,Diesel
+Maruti Suzuki Dzire VDI,Maruti,2015,2014-2019,450000,1L-10L,"1,04,000 kms",104000,1L-1.5L,Diesel
+Toyota Etios Liva G,Toyota,2014,2009-2014,270000,1L-10L,"55,000 kms",55000,30k-60k,Petrol
+Hyundai i20 Sportz 1.4 CRDI,Hyundai,2011,2009-2014,350000,1L-10L,"33,333 kms",33333,30k-60k,Diesel
+Chevrolet Spark,Chevrolet,2012,2009-2014,158400,1L-10L,"33,600 kms",33600,30k-60k,Petrol
+Maruti Suzuki Alto K10 VXi AMT,Maruti,2017,2014-2019,350000,1L-10L,"5,600 kms",5600,5k-10k,Petrol
+Nissan Micra XV,Nissan,2011,2009-2014,179000,1L-10L,"41,000 kms",41000,30k-60k,Petrol
+Maruti Suzuki Swift,Maruti,2007,2005-2009,125000,1L-10L,"70,000 kms",70000,60k-1L,Petrol
+Maruti Suzuki Alto 800,Maruti,2018,2014-2019,200000,1L-10L,"7,500 kms",7500,5k-10k,Petrol
+Honda Amaze 1.5 S i DTEC,Honda,2013,2009-2014,299000,1L-10L,"45,000 kms",45000,30k-60k,Diesel
+Maruti Suzuki Alto 800 Vxi,Maruti,2015,2014-2019,220000,1L-10L,"38,000 kms",38000,30k-60k,Petrol
+Chevrolet Beat,Chevrolet,2015,2014-2019,150000,1L-10L,"30,000 kms",30000,10k-30k,Petrol
+Honda City 1.5 V MT,Honda,2010,2009-2014,285000,1L-10L,"35,000 kms",35000,30k-60k,Petrol
+Ford EcoSport Trend 1.5L TDCi,Ford,2016,2014-2019,830000,1L-10L,"24,330 kms",24330,10k-30k,Diesel
+Hyundai i20 Asta 1.2,Hyundai,2009,2005-2009,210000,1L-10L,"65,480 kms",65480,60k-1L,Petrol
+Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,2013,2009-2014,340000,1L-10L,"41,000 kms",41000,30k-60k,Petrol
+Tata Indica V2 eLS,Tata,2006,2005-2009,90000,30k-1L,"20,000 kms",20000,10k-30k,Petrol
+Hindustan Motors Ambassador,Hindustan,2000,1999-2004,70000,30k-1L,"2,00,000 kms",200000,1.5L-2L,Diesel
+Toyota Corolla Altis 1.8 GL,Toyota,2010,2009-2014,289999,1L-10L,"70,000 kms",70000,60k-1L,Petrol
+Toyota Corolla Altis 1.8 J,Toyota,2012,2009-2014,349999,1L-10L,"59,000 kms",59000,30k-60k,Petrol
+Toyota Innova 2.5 GX BS IV 7 STR,Toyota,2012,2009-2014,849999,1L-10L,"99,000 kms",99000,60k-1L,Diesel
+Volkswagen Jetta Highline TDI AT,Volkswagen,2014,2009-2014,749999,1L-10L,"46,000 kms",46000,30k-60k,Diesel
+Volkswagen Polo Comfortline 1.2L P,Volkswagen,2015,2014-2019,399999,1L-10L,"2,800 kms",2800,0k-5k,Petrol
+Volkswagen Polo,Volkswagen,2014,2009-2014,274999,1L-10L,"32,000 kms",32000,30k-60k,Petrol
+Mahindra Scorpio,Mahindra,2015,2014-2019,984999,1L-10L,"22,000 kms",22000,10k-30k,Diesel
+Nissan Sunny,Nissan,2012,2009-2014,224999,1L-10L,"45,000 kms",45000,30k-60k,Petrol
+Hyundai Elite i20,Hyundai,2018,2014-2019,599999,1L-10L,"21,000 kms",21000,10k-30k,Petrol
+Renault Kwid,Renault,2016,2014-2019,244999,1L-10L,"11,000 kms",11000,10k-30k,Petrol
+Renault Duster,Renault,2013,2009-2014,399999,1L-10L,"41,000 kms",41000,30k-60k,Diesel
+Renault Duster,Renault,2014,2009-2014,474999,1L-10L,"50,000 kms",50000,30k-60k,Diesel
+Mahindra Scorpio VLX Airbag,Mahindra,2011,2009-2014,499999,1L-10L,"66,000 kms",66000,60k-1L,Diesel
+Maruti Suzuki Alto 800 Lxi,Maruti,2018,2014-2019,310000,1L-10L,"3,000 kms",3000,0k-5k,Petrol
+Chevrolet Spark LT 1.0,Chevrolet,2010,2009-2014,85000,30k-1L,"45,000 kms",45000,30k-60k,Petrol
+Datsun Redi GO T O,Datsun,2016,2014-2019,245000,1L-10L,"7,000 kms",7000,5k-10k,Petrol
+Maruti Suzuki Swift RS VDI,Maruti,2010,2009-2014,189500,1L-10L,"38,500 kms",38500,30k-60k,Diesel
+Fiat Punto Emotion 1.2,Fiat,2012,2009-2014,169500,1L-10L,"37,200 kms",37200,30k-60k,Diesel
+Maruti Suzuki Swift RS VDI,Maruti,2010,2009-2014,159500,1L-10L,"43,200 kms",43200,30k-60k,Diesel
+Toyota Etios GD,Toyota,2013,2009-2014,275000,1L-10L,"24,800 kms",24800,10k-30k,Petrol
+Hyundai i20 Sportz 1.4 CRDI,Hyundai,2014,2009-2014,370000,1L-10L,"60,000 kms",60000,30k-60k,Diesel
+Hyundai i10 Sportz 1.2,Hyundai,2010,2009-2014,168000,1L-10L,"45,872 kms",45872,30k-60k,Petrol
+Chevrolet Beat LT Opt Diesel,Chevrolet,2011,2009-2014,150000,1L-10L,"40,000 kms",40000,30k-60k,Diesel
+Chevrolet Beat LS Diesel,Chevrolet,2011,2009-2014,145000,1L-10L,"45,000 kms",45000,30k-60k,Diesel
+Chevrolet Beat LT Diesel,Chevrolet,2012,2009-2014,98500,30k-1L,"38,000 kms",38000,30k-60k,Diesel
+Tata Indigo CS,Tata,2011,2009-2014,85000,30k-1L,"11,400 kms",11400,10k-30k,Diesel
+Toyota Corolla Altis 1.8 J,Toyota,2015,2014-2019,575000,1L-10L,"42,000 kms",42000,30k-60k,Petrol
+Honda City 1.5 V MT,Honda,2014,2009-2014,549000,1L-10L,"39,000 kms",39000,30k-60k,Petrol
+Maruti Suzuki Swift VDi,Maruti,2011,2009-2014,209000,1L-10L,"47,000 kms",47000,30k-60k,Diesel
+Hyundai Eon Era Plus,Hyundai,2013,2009-2014,185000,1L-10L,"27,000 kms",27000,10k-30k,Petrol
+Mahindra Scorpio S10,Mahindra,2015,2014-2019,900000,1L-10L,"97,200 kms",97200,60k-1L,Diesel
+Mahindra XUV500,Mahindra,2014,2009-2014,699999,1L-10L,"52,000 kms",52000,30k-60k,Diesel
+Ford Fiesta,Ford,2011,2009-2014,274999,1L-10L,"55,000 kms",55000,30k-60k,Diesel
+Honda City,Honda,2015,2014-2019,599999,1L-10L,"30,000 kms",30000,10k-30k,Diesel
+Maruti Suzuki Wagon R,Maruti,2012,2009-2014,199999,1L-10L,"44,000 kms",44000,30k-60k,Petrol
+Honda City,Honda,2014,2009-2014,544999,1L-10L,"45,000 kms",45000,30k-60k,Diesel
+Hyundai i20,Hyundai,2009,2005-2009,199000,1L-10L,"31,000 kms",31000,30k-60k,Petrol
+Tata Indigo eCS LX TDI BS III,Tata,2016,2014-2019,320000,1L-10L,"1,75,430 kms",175430,1.5L-2L,Diesel
+Hyundai Fluidic Verna 1.6 CRDi SX,Hyundai,2015,2014-2019,540000,1L-10L,"38,000 kms",38000,30k-60k,Diesel
+Mahindra Quanto C8,Mahindra,2013,2009-2014,340000,1L-10L,"37,000 kms",37000,30k-60k,Diesel
+Fiat Petra ELX 1.2 PS,Fiat,2008,2005-2009,75000,30k-1L,"65,000 kms",65000,60k-1L,Petrol
+Hyundai Santro Xing XS,Hyundai,2005,2005-2009,49000,30k-1L,"7,500 kms",7500,5k-10k,Petrol
+Maruti Suzuki Ciaz VXi Plus,Maruti,2016,2014-2019,700000,1L-10L,"3,350 kms",3350,0k-5k,Petrol
+Maruti Suzuki Zen VX,Maruti,2000,1999-2004,55000,30k-1L,"60,000 kms",60000,30k-60k,Petrol
+Hyundai Creta 1.6 SX Plus Petrol,Hyundai,2017,2014-2019,895000,1L-10L,"32,000 kms",32000,30k-60k,Petrol
+Mahindra Scorpio SLX,Mahindra,2007,2005-2009,355000,1L-10L,"75,000 kms",75000,60k-1L,Diesel
+Mahindra Scorpio SLE BS IV,Mahindra,2012,2009-2014,565000,1L-10L,"62,000 kms",62000,60k-1L,Diesel
+Toyota Innova 2.5 G BS III 8 STR,Toyota,2006,2005-2009,365000,1L-10L,"73,000 kms",73000,60k-1L,Diesel
+Maruti Suzuki Alto K10 VXi AMT,Maruti,2011,2009-2014,145000,1L-10L,"41,000 kms",41000,30k-60k,Petrol
+Maruti Suzuki Wagon R LXI BS IV,Maruti,2011,2009-2014,210000,1L-10L,"35,000 kms",35000,30k-60k,Petrol
+Tata Nano Cx BSIV,Tata,2013,2009-2014,40000,30k-1L,"2,200 kms",2200,0k-5k,Petrol
+Maruti Suzuki Alto Std BS IV,Maruti,2013,2009-2014,125000,1L-10L,"39,000 kms",39000,30k-60k,Petrol
+Maruti Suzuki Wagon R LXi BS III,Maruti,2009,2005-2009,135000,1L-10L,"45,000 kms",45000,30k-60k,Petrol
+Maruti Suzuki Swift VXI BSIII,Maruti,2006,2005-2009,135000,1L-10L,"45,000 kms",45000,30k-60k,Petrol
+Tata Sumo Victa EX 10 by 7 Str BSIII,Tata,2012,2009-2014,285000,1L-10L,"65,000 kms",65000,60k-1L,Diesel
+Maruti Suzuki Wagon R LXi BS III,Maruti,2010,2009-2014,145000,1L-10L,"54,870 kms",54870,30k-60k,Petrol
+Maruti Suzuki Alto LXi BS III,Maruti,2010,2009-2014,135000,1L-10L,"34,580 kms",34580,30k-60k,Petrol
+Volkswagen Passat Diesel Comfortline AT,Volkswagen,2009,2005-2009,450000,1L-10L,"97,000 kms",97000,60k-1L,Diesel
+Renault Scala RxL Diesel Travelogue,Renault,2015,2014-2019,375000,1L-10L,"25,000 kms",25000,10k-30k,Diesel
+Hyundai Grand i10 Sportz O 1.2 Kappa VTVT,Hyundai,2014,2009-2014,365000,1L-10L,"20,000 kms",20000,10k-30k,Petrol
+Hyundai i20 Active 1.2 SX,Hyundai,2015,2014-2019,500000,1L-10L,"18,000 kms",18000,10k-30k,Petrol
+Mahindra Xylo E4,Mahindra,2012,2009-2014,400000,1L-10L,"35,000 kms",35000,30k-60k,Diesel
+Mahindra Jeep MM 550 XDB,Mahindra,2019,2014-2019,390000,1L-10L,60 kms,60,0k-5k,Diesel
+Mahindra Bolero SLE BS IV,Mahindra,2013,2009-2014,330000,1L-10L,"80,200 kms",80200,60k-1L,Diesel
+Force Motors Force One LX ABS 7 STR,Force,2015,2014-2019,580000,1L-10L,"3,200 kms",3200,0k-5k,Diesel
+Maruti Suzuki SX4,Maruti,2012,2009-2014,265000,1L-10L,"46,000 kms",46000,30k-60k,Diesel
+Mahindra Jeep CL550 MDI,Mahindra,2019,2014-2019,379000,1L-10L,"0,000 kms",0,0k-5k,Diesel
+Maruti Suzuki Alto 800,Maruti,2015,2014-2019,219000,1L-10L,"5,000 kms",5000,0k-5k,Petrol
+Mahindra Jeep CL550 MDI,Mahindra,2018,2014-2019,385000,1L-10L,588 kms,588,0k-5k,Diesel
+Toyota Etios,Toyota,2011,2009-2014,275000,1L-10L,"36,000 kms",36000,30k-60k,Diesel
+Volkswagen Polo,Volkswagen,2015,2014-2019,330000,1L-10L,"38,000 kms",38000,30k-60k,Diesel
+Honda City ZX VTEC,Honda,2008,2005-2009,110000,1L-10L,"45,000 kms",45000,30k-60k,Petrol
+Maruti Suzuki Wagon R LX BS III,Maruti,2006,2005-2009,80000,30k-1L,"71,200 kms",71200,60k-1L,Petrol
+Honda City VX O MT Diesel,Honda,2016,2014-2019,519000,1L-10L,"52,000 kms",52000,30k-60k,Diesel
+Mahindra Thar CRDe 4x4 AC,Mahindra,2016,2014-2019,730000,1L-10L,"29,000 kms",29000,10k-30k,Diesel
+Audi A4 1.8 TFSI Multitronic Premium Plus,Audi,2009,2005-2009,699000,1L-10L,"47,000 kms",47000,30k-60k,Petrol
+Mercedes Benz GLA Class 200 CDI Sport,Mercedes,2015,2014-2019,2000000,10L-30L,"20,000 kms",20000,10k-30k,Diesel
+Land Rover Freelander 2 SE,Land,2015,2014-2019,2100000,10L-30L,"30,000 kms",30000,10k-30k,Diesel
+Renault Kwid RXT,Renault,2017,2014-2019,340000,1L-10L,"5,000 kms",5000,0k-5k,Petrol
+Tata Aria Pleasure 4X2,Tata,2014,2009-2014,390000,1L-10L,"35,000 kms",35000,30k-60k,Diesel
+Mercedes Benz B Class B180 Sports,Mercedes,2014,2009-2014,1400000,10L-30L,"31,000 kms",31000,30k-60k,Petrol
+Datsun GO T O,Datsun,2016,2014-2019,245000,1L-10L,"7,000 kms",7000,5k-10k,Petrol
+Tata Indigo eCS LX TDI BS III,Tata,2016,2014-2019,320000,1L-10L,"1,75,400 kms",175400,1.5L-2L,Diesel
+Honda Jazz VX MT,Honda,2016,2014-2019,450000,1L-10L,"41,000 kms",41000,30k-60k,Petrol
+Honda Amaze 1.2 S i VTEC,Honda,2014,2009-2014,311000,1L-10L,"33,000 kms",33000,30k-60k,Petrol
+Honda City,Honda,2012,2009-2014,399999,1L-10L,"45,000 kms",45000,30k-60k,Petrol
+Honda City,Honda,2015,2014-2019,599999,1L-10L,"39,000 kms",39000,30k-60k,Diesel
+Mahindra Scorpio S4,Mahindra,2015,2014-2019,855000,1L-10L,"30,000 kms",30000,10k-30k,Diesel
+Hyundai i20 Active 1.4L SX O,Hyundai,2015,2014-2019,535000,1L-10L,"37,000 kms",37000,30k-60k,Diesel
+Mini Cooper S,Mini,2013,2009-2014,1891111,10L-30L,"13,000 kms",13000,10k-30k,Petrol
+Maruti Suzuki Ciaz ZXI Plus,Maruti,2017,2014-2019,699000,1L-10L,"14,000 kms",14000,10k-30k,Petrol
+Chevrolet Tavera Neo,Chevrolet,2013,2009-2014,375000,1L-10L,"55,000 kms",55000,30k-60k,Diesel
+Hyundai Eon Sportz,Hyundai,2012,2009-2014,178000,1L-10L,"30,000 kms",30000,10k-30k,Petrol
+Tata Sumo Gold Select Variant,Tata,2013,2009-2014,300000,1L-10L,"50,000 kms",50000,30k-60k,Diesel
+Maruti Suzuki Wagon R 1.0,Maruti,2003,1999-2004,90000,30k-1L,"45,000 kms",45000,30k-60k,Petrol
+Maruti Suzuki Esteem VXi BS III,Maruti,2006,2005-2009,95000,30k-1L,"45,000 kms",45000,30k-60k,Petrol
+Maruti Suzuki Eeco 5 STR WITH AC HTR,Maruti,2015,2014-2019,255000,1L-10L,"9,300 kms",9300,5k-10k,Petrol
+Chevrolet Enjoy 1.4 LS 8 STR,Chevrolet,2013,2009-2014,245000,1L-10L,"55,000 kms",55000,30k-60k,Diesel
+Maruti Suzuki Wagon R 1.0 VXi,Maruti,2015,2014-2019,289999,1L-10L,"22,000 kms",22000,10k-30k,Petrol
+Nissan Terrano XL D Plus,Nissan,2015,2014-2019,499999,1L-10L,"60,000 kms",60000,30k-60k,Diesel
+Renault Duster 85 PS RxE Diesel,Renault,2014,2009-2014,489999,1L-10L,"59,000 kms",59000,30k-60k,Diesel
+Renault Duster 85 PS RxL Diesel,Renault,2015,2014-2019,549999,1L-10L,"19,000 kms",19000,10k-30k,Diesel
+Maruti Suzuki Dzire ZXI,Maruti,2013,2009-2014,380000,1L-10L,"30,000 kms",30000,10k-30k,Petrol
+Renault Kwid RXT Opt,Renault,2018,2014-2019,325000,1L-10L,"15,000 kms",15000,10k-30k,Petrol
+Maruti Suzuki Maruti 800 Std,Maruti,2003,1999-2004,57000,30k-1L,"56,758 kms",56758,30k-60k,Petrol
+Renault Kwid 1.0 RXT AMT,Renault,2018,2014-2019,349999,1L-10L,"10,000 kms",10000,5k-10k,Petrol
+Renault Scala RxL Diesel,Renault,2014,2009-2014,349999,1L-10L,"49,000 kms",49000,30k-60k,Diesel
+Hyundai Grand i10 Asta 1.2 Kappa VTVT O,Hyundai,2014,2009-2014,410000,1L-10L,"41,000 kms",41000,30k-60k,Petrol
+Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,2011,2009-2014,225000,1L-10L,"45,000 kms",45000,30k-60k,Petrol
+Chevrolet Beat LS Petrol,Chevrolet,2010,2009-2014,120000,1L-10L,"43,000 kms",43000,30k-60k,Petrol
+Hyundai Santro Xing XO eRLX Euro III,Hyundai,2000,1999-2004,59000,30k-1L,"56,450 kms",56450,30k-60k,Petrol
+Chevrolet Beat LS Petrol,Chevrolet,2010,2009-2014,80000,30k-1L,"56,000 kms",56000,30k-60k,Petrol
+Chevrolet Beat LS Petrol,Chevrolet,2015,2014-2019,220000,1L-10L,"32,700 kms",32700,30k-60k,Petrol
+Ford EcoSport Titanium 1.5L TDCi,Ford,2016,2014-2019,599000,1L-10L,"30,000 kms",30000,10k-30k,Diesel
+Hyundai Accent GLX,Hyundai,2006,2005-2009,80000,30k-1L,"56,000 kms",56000,30k-60k,Petrol
+Mahindra TUV300 T4 Plus,Mahindra,2016,2014-2019,675000,1L-10L,"9,000 kms",9000,5k-10k,Diesel
+Tata Indica V2 Xeta e GLE,Tata,2008,2005-2009,150000,1L-10L,"11,000 kms",11000,10k-30k,Petrol
+Tata Indigo CS LS DiCOR,Tata,2009,2005-2009,72500,30k-1L,"46,000 kms",46000,30k-60k,Diesel
+Maruti Suzuki Swift VXi 1.2 ABS BS IV,Maruti,2019,2014-2019,610000,1L-10L,73 kms,73,0k-5k,Petrol
+Mahindra Scorpio VLX Special Edition BS III,Mahindra,2004,1999-2004,230000,1L-10L,"1,60,000 kms",160000,1.5L-2L,Diesel
+Honda Accord,Honda,2009,2005-2009,175000,1L-10L,"58,559 kms",58559,30k-60k,Petrol
+Ford EcoSport Titanium 1.5 TDCi,Ford,2014,2009-2014,520000,1L-10L,"57,000 kms",57000,30k-60k,Diesel
+Maruti Suzuki Ertiga,Maruti,2015,2014-2019,524999,1L-10L,"50,000 kms",50000,30k-60k,Diesel
+Honda Amaze,Honda,2014,2009-2014,299999,1L-10L,"37,000 kms",37000,30k-60k,Petrol
+Maruti Suzuki Dzire,Maruti,2012,2009-2014,299999,1L-10L,"40,000 kms",40000,30k-60k,Petrol
+Honda City,Honda,2011,2009-2014,284999,1L-10L,"55,000 kms",55000,30k-60k,Petrol
+Mahindra Scorpio 2.6 CRDe,Mahindra,2007,2005-2009,220000,1L-10L,"1,70,000 kms",170000,1.5L-2L,Diesel
+Maruti Suzuki Dzire,Maruti,2014,2009-2014,424999,1L-10L,"55,000 kms",55000,30k-60k,Diesel
+Honda City,Honda,2015,2014-2019,644999,1L-10L,"39,000 kms",39000,30k-60k,Petrol
+Honda Mobilio,Honda,2014,2009-2014,399999,1L-10L,"44,000 kms",44000,30k-60k,Petrol
+Toyota Corolla Altis,Toyota,2009,2005-2009,199999,1L-10L,"65,000 kms",65000,60k-1L,Petrol
+Honda City,Honda,2014,2009-2014,584999,1L-10L,"39,000 kms",39000,30k-60k,Petrol
+Skoda Laura,Skoda,2012,2009-2014,349999,1L-10L,"44,000 kms",44000,30k-60k,Diesel
+Renault Duster,Renault,2015,2014-2019,449999,1L-10L,"49,000 kms",49000,30k-60k,Diesel
+Maruti Suzuki Ertiga,Maruti,2018,2014-2019,799999,1L-10L,"9,000 kms",9000,5k-10k,Diesel
+Maruti Suzuki Dzire,Maruti,2015,2014-2019,444999,1L-10L,"45,000 kms",45000,30k-60k,Diesel
+Mahindra XUV500,Mahindra,2014,2009-2014,649999,1L-10L,"47,000 kms",47000,30k-60k,Diesel
+Hyundai Verna Fluidic,Hyundai,2012,2009-2014,444999,1L-10L,"40,000 kms",40000,30k-60k,Diesel
+Maruti Suzuki Vitara Brezza,Maruti,2016,2014-2019,689999,1L-10L,"29,000 kms",29000,10k-30k,Diesel
+Maruti Suzuki Wagon R,Maruti,2016,2014-2019,344999,1L-10L,"15,000 kms",15000,10k-30k,Petrol
+Mahindra Scorpio,Mahindra,2015,2014-2019,944999,1L-10L,"45,000 kms",45000,30k-60k,Diesel
+Honda Amaze,Honda,2014,2009-2014,274999,1L-10L,"35,000 kms",35000,30k-60k,Petrol
+Mahindra XUV500,Mahindra,2013,2009-2014,689999,1L-10L,"80,000 kms",80000,60k-1L,Diesel
+Mahindra Scorpio,Mahindra,2013,2009-2014,574999,1L-10L,"68,000 kms",68000,60k-1L,Diesel
+Skoda Laura,Skoda,2013,2009-2014,374999,1L-10L,"50,000 kms",50000,30k-60k,Diesel
+Volkswagen Polo,Volkswagen,2010,2009-2014,199999,1L-10L,"60,000 kms",60000,30k-60k,Diesel
+Hyundai Elite i20,Hyundai,2016,2014-2019,549999,1L-10L,"9,000 kms",9000,5k-10k,Petrol
+Tata Manza Aura Quadrajet,Tata,2012,2009-2014,130000,1L-10L,"72,000 kms",72000,60k-1L,Diesel
+Chevrolet Sail UVA Petrol LT ABS,Chevrolet,2013,2009-2014,210000,1L-10L,"60,000 kms",60000,30k-60k,Petrol
+Hyundai Verna Fluidic 1.6 VTVT SX,Hyundai,2013,2009-2014,401000,1L-10L,"45,000 kms",45000,30k-60k,Diesel
+Audi A4 2.0 TDI 177bhp Premium,Audi,2012,2009-2014,1350000,10L-30L,"40,000 kms",40000,30k-60k,Diesel
+Hyundai Elantra SX,Hyundai,2013,2009-2014,600000,1L-10L,"20,000 kms",20000,10k-30k,Petrol
+Mahindra Scorpio VLX 4WD Airbag,Mahindra,2013,2009-2014,610000,1L-10L,"35,000 kms",35000,30k-60k,Diesel
+Mahindra KUV100 K8 D 6 STR,Mahindra,2016,2014-2019,400000,1L-10L,"20,000 kms",20000,10k-30k,Diesel
+Hyundai Grand i10,Hyundai,2017,2014-2019,524999,1L-10L,"6,821 kms",6821,5k-10k,Petrol
+Hyundai i20,Hyundai,2014,2009-2014,449999,1L-10L,"23,000 kms",23000,10k-30k,Petrol
+Hyundai Eon,Hyundai,2014,2009-2014,174999,1L-10L,"14,000 kms",14000,10k-30k,Petrol
+Hyundai i10,Hyundai,2012,2009-2014,244999,1L-10L,"38,000 kms",38000,30k-60k,Petrol
+Hyundai i20 Active,Hyundai,2015,2014-2019,574999,1L-10L,"35,000 kms",35000,30k-60k,Diesel
+Datsun Redi GO,Datsun,2017,2014-2019,244999,1L-10L,"22,000 kms",22000,10k-30k,Petrol
+Toyota Etios Liva,Toyota,2011,2009-2014,239999,1L-10L,"41,000 kms",41000,30k-60k,Petrol
+Hyundai Accent,Hyundai,2010,2009-2014,99999,30k-1L,"45,000 kms",45000,30k-60k,Petrol
+Hyundai Verna,Hyundai,2014,2009-2014,489999,1L-10L,"44,000 kms",44000,30k-60k,Diesel
+Maruti Suzuki Swift,Maruti,2013,2009-2014,324999,1L-10L,"45,000 kms",45000,30k-60k,Diesel
+Toyota Fortuner,Toyota,2011,2009-2014,1074999,10L-30L,"52,000 kms",52000,30k-60k,Diesel
+Hyundai i10 Sportz,Hyundai,2012,2009-2014,230000,1L-10L,"34,000 kms",34000,30k-60k,Petrol
+Mahindra Bolero Power Plus SLE,Mahindra,2018,2014-2019,699000,1L-10L,"1,800 kms",1800,0k-5k,Diesel
+Mahindra XUV500,Mahindra,2015,2014-2019,1000000,1L-10L,"15,000 kms",15000,10k-30k,Diesel
+Honda City 1.5 V MT Exclusive,Honda,2010,2009-2014,240000,1L-10L,"4,00,000 kms",400000,2L-4L,Petrol
+Chevrolet Spark LT 1.0 Airbag,Chevrolet,2009,2005-2009,110000,1L-10L,"44,000 kms",44000,30k-60k,Petrol
+Mahindra XUV500,Mahindra,2016,2014-2019,1130000,10L-30L,"72,000 kms",72000,60k-1L,Diesel
+Tata Indigo eCS VX CR4 BS IV,Tata,2014,2009-2014,250000,1L-10L,"40,000 kms",40000,30k-60k,Diesel
+Skoda Rapid Elegance 1.6 TDI CR MT,Skoda,2013,2009-2014,340000,1L-10L,"48,000 kms",48000,30k-60k,Diesel
+Tata Vista Quadrajet VX,Tata,2011,2009-2014,120000,1L-10L,"90,000 kms",90000,60k-1L,Diesel
+Maruti Suzuki Alto K10 VXi AT,Maruti,2015,2014-2019,265000,1L-10L,"12,000 kms",12000,10k-30k,Petrol
+Maruti Suzuki Zen LXi BS III,Maruti,2003,1999-2004,85000,30k-1L,"69,900 kms",69900,60k-1L,Petrol
+Hyundai i10 Magna 1.2,Hyundai,2011,2009-2014,175000,1L-10L,"45,000 kms",45000,30k-60k,Petrol
+Maruti Suzuki Swift Dzire Tour LDi,Maruti,2016,2014-2019,350000,1L-10L,"1,66,000 kms",166000,1.5L-2L,Diesel
+Honda City ZX EXi,Honda,2008,2005-2009,149000,1L-10L,"42,000 kms",42000,30k-60k,Petrol
+Mahindra Jeep MM 550 XDB,Mahindra,2006,2005-2009,425000,1L-10L,122 kms,122,0k-5k,Diesel
+Chevrolet Beat Diesel,Chevrolet,2017,2014-2019,150000,1L-10L,"62,000 kms",62000,60k-1L,Diesel
+Honda City 1.5 S MT,Honda,2010,2009-2014,225000,1L-10L,"70,000 kms",70000,60k-1L,Petrol
+Hyundai Verna 1.4 VTVT,Hyundai,2014,2009-2014,375000,1L-10L,"36,000 kms",36000,30k-60k,Petrol
+Toyota Innova 2.5 E MS 7 STR BS IV,Toyota,2012,2009-2014,770000,1L-10L,0 kms,0,0k-5k,Diesel
+Maruti Suzuki Maruti 800 Std – Befo,Maruti,1995,>2004,30000,30k-1L,"55,000 kms",55000,30k-60k,Petrol
+Maruti Suzuki Swift,Maruti,2014,2009-2014,335000,1L-10L,"55,000 kms",55000,30k-60k,Diesel
+Hyundai Elite i20 Asta 1.4 CRDI,Hyundai,2015,2014-2019,450000,1L-10L,"20,000 kms",20000,10k-30k,Diesel
+Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,2012,2009-2014,225000,1L-10L,"40,000 kms",40000,30k-60k,Petrol
+Maruti Suzuki Versa DX2 8 SEATER BSIII,Maruti,2004,1999-2004,80000,30k-1L,"50,000 kms",50000,30k-60k,Petrol
+Tata Indigo LX TDI BS III,Tata,2016,2014-2019,130000,1L-10L,"1,04,000 kms",104000,1L-1.5L,Diesel
+Volkswagen Vento Konekt Diesel Highline,Volkswagen,2011,2009-2014,245000,1L-10L,"65,000 kms",65000,60k-1L,Diesel
+Mercedes Benz C Class 200 CDI Classic,Mercedes,2002,1999-2004,399000,1L-10L,"41,000 kms",41000,30k-60k,Petrol
+Maruti Suzuki Ertiga VDi,Maruti,2013,2009-2014,450000,1L-10L,"90,000 kms",90000,60k-1L,Diesel
+Honda City,Honda,2000,1999-2004,65000,30k-1L,"80,000 kms",80000,60k-1L,Petrol
+Hyundai Santro Xing GLS,Hyundai,2006,2005-2009,75000,30k-1L,"46,000 kms",46000,30k-60k,Petrol
+Maruti Suzuki Omni Limited Edition,Maruti,2001,1999-2004,70000,30k-1L,"70,000 kms",70000,60k-1L,Petrol
+Hyundai Sonata Transform 2.4 GDi MT,Hyundai,2017,2014-2019,190000,1L-10L,"36,469 kms",36469,30k-60k,Diesel
+Hyundai Elite i20 Sportz 1.2,Hyundai,2018,2014-2019,600000,1L-10L,"7,800 kms",7800,5k-10k,Petrol
+Maruti Suzuki Alto 800 Lxi,Maruti,2017,2014-2019,240000,1L-10L,"60,000 kms",60000,30k-60k,Petrol
+Maruti Suzuki Alto LXi BS III,Maruti,2011,2009-2014,155000,1L-10L,"32,000 kms",32000,30k-60k,Petrol
+Honda Jazz S MT,Honda,2009,2005-2009,169999,1L-10L,"24,695 kms",24695,10k-30k,Petrol
+Hyundai Grand i10 Sportz 1.2 Kappa VTVT,Hyundai,2017,2014-2019,450000,1L-10L,"15,141 kms",15141,10k-30k,Petrol
+Maruti Suzuki Zen LXi BSII,Maruti,2001,1999-2004,40000,30k-1L,"40,000 kms",40000,30k-60k,Petrol
+Mahindra Scorpio W Turbo 2.6DX 9 Seater,Mahindra,2012,2009-2014,165000,1L-10L,"65,000 kms",65000,60k-1L,Diesel
+Maruti Suzuki Alto K10 VXi,Maruti,2014,2009-2014,270000,1L-10L,"22,000 kms",22000,10k-30k,Petrol
+Hyundai Grand i10 Asta 1.2 Kappa VTVT,Hyundai,2016,2014-2019,280000,1L-10L,"59,910 kms",59910,30k-60k,Diesel
+Mahindra XUV500 W8,Mahindra,2012,2009-2014,560000,1L-10L,"1,00,000 kms",100000,60k-1L,Diesel
+Hyundai Creta 1.6 SX Plus Petrol,Hyundai,2016,2014-2019,950000,1L-10L,"25,000 kms",25000,10k-30k,Petrol
+Hyundai i20 Magna O 1.2,Hyundai,2013,2009-2014,310000,1L-10L,"35,000 kms",35000,30k-60k,Petrol
+Renault Duster 85 PS RxL Explore LE,Renault,2015,2014-2019,715000,1L-10L,"65,000 kms",65000,60k-1L,Diesel
+Hyundai Grand i10 Sportz 1.2 Kappa VTVT,Hyundai,2014,2009-2014,340000,1L-10L,"35,000 kms",35000,30k-60k,Petrol
+Honda Brio V MT,Honda,2012,2009-2014,235000,1L-10L,"33,000 kms",33000,30k-60k,Petrol
+Mahindra TUV300 T4 Plus,Mahindra,2017,2014-2019,610000,1L-10L,"68,000 kms",68000,60k-1L,Diesel
+Chevrolet Spark LS 1.0,Chevrolet,2010,2009-2014,95000,30k-1L,"23,000 kms",23000,10k-30k,Petrol
+Mahindra TUV300 T8,Mahindra,2018,2014-2019,1000000,1L-10L,"4,500 kms",4500,0k-5k,Diesel
+Maruti Suzuki Swift Dzire Tour LDi,Maruti,2015,2014-2019,220000,1L-10L,"1,29,000 kms",129000,1L-1.5L,Diesel
+Nissan X Trail Select Variant,Nissan,2019,2014-2019,1200000,10L-30L,300 kms,300,0k-5k,Diesel
+Maruti Suzuki Alto 800 Vxi,Maruti,2015,2014-2019,230000,1L-10L,"5,000 kms",5000,0k-5k,Petrol
+Ford Ikon 1.3 CLXi NXt Finesse,Ford,2001,1999-2004,45000,30k-1L,"65,000 kms",65000,60k-1L,Petrol
+Toyota Fortuner 3.0 4x4 MT,Toyota,2010,2009-2014,940000,1L-10L,"1,31,000 kms",131000,1L-1.5L,Diesel
+Tata Manza ELAN Quadrajet,Tata,2010,2009-2014,155555,1L-10L,"1,11,111 kms",111111,1L-1.5L,Petrol
+Mercedes Benz A Class A 180 Sport Petrol,Mercedes,2013,2009-2014,1500000,10L-30L,"14,000 kms",14000,10k-30k,Petrol
+Chevrolet Beat LS Diesel,Chevrolet,2016,2014-2019,210000,1L-10L,"22,000 kms",22000,10k-30k,Diesel
+Ford EcoSport Trend 1.5L TDCi,Ford,2013,2009-2014,495000,1L-10L,"38,000 kms",38000,30k-60k,Diesel
+Tata Indigo LS,Tata,2016,2014-2019,125000,1L-10L,"70,000 kms",70000,60k-1L,Diesel
+Hyundai i20 Magna 1.2,Hyundai,2010,2009-2014,195000,1L-10L,"36,000 kms",36000,30k-60k,Petrol
+Volkswagen Vento Highline Plus 1.5 Diesel AT,Volkswagen,2015,2014-2019,550000,1L-10L,"34,000 kms",34000,30k-60k,Diesel
+Renault Kwid RXT,Renault,2015,2014-2019,270000,1L-10L,"43,000 kms",43000,30k-60k,Petrol
+Ford EcoSport Titanium 1.5L TDCi,Ford,2014,2009-2014,500000,1L-10L,"40,000 kms",40000,30k-60k,Diesel
+Honda Amaze 1.5 E i DTEC,Honda,2016,2014-2019,240000,1L-10L,"1,60,000 kms",160000,1.5L-2L,Diesel
+Hyundai Verna 1.6 EX VTVT,Hyundai,2017,2014-2019,800000,1L-10L,"12,000 kms",12000,10k-30k,Petrol
+BMW 5 Series 520d Sedan,BMW,2011,2009-2014,1299000,10L-30L,"49,000 kms",49000,30k-60k,Diesel
+Skoda Superb 1.8 TFSI AT,Skoda,2011,2009-2014,530000,1L-10L,"68,000 kms",68000,60k-1L,Petrol
+Audi Q3 2.0 TDI quattro Premium,Audi,2013,2009-2014,1499000,10L-30L,"37,000 kms",37000,30k-60k,Diesel
+Mahindra Bolero DI BSII,Mahindra,2012,2009-2014,220000,1L-10L,"59,466 kms",59466,30k-60k,Diesel
+Ford Figo Duratorq Diesel Titanium 1.4,Ford,2012,2009-2014,250000,1L-10L,"99,000 kms",99000,60k-1L,Diesel
+Maruti Suzuki Wagon R VXI BS IV,Maruti,2018,2014-2019,395000,1L-10L,"25,500 kms",25500,10k-30k,Petrol
+Mahindra Logan Diesel 1.5 DLS,Mahindra,2009,2005-2009,130000,1L-10L,"66,000 kms",66000,60k-1L,Petrol
+Tata Nano GenX XMA,Tata,2010,2009-2014,32000,30k-1L,"44,005 kms",44005,30k-60k,Petrol
+Mahindra TUV300 T4 Plus,Mahindra,2016,2014-2019,540000,1L-10L,"35,000 kms",35000,30k-60k,Diesel
+Hyundai Elite i20 Magna 1.2,Hyundai,2015,2014-2019,405000,1L-10L,"28,000 kms",28000,10k-30k,Petrol
+Hyundai Elite i20 Magna 1.2,Hyundai,2015,2014-2019,400000,1L-10L,"30,000 kms",30000,10k-30k,Petrol
+Honda City SV,Honda,2017,2014-2019,760000,1L-10L,"4,000 kms",4000,0k-5k,Petrol
+Maruti Suzuki Baleno Delta 1.2,Maruti,2016,2014-2019,500000,1L-10L,"28,000 kms",28000,10k-30k,Petrol
+Ford Figo Petrol LXI,Ford,2011,2009-2014,175000,1L-10L,"75,000 kms",75000,60k-1L,Petrol
+Honda City,Honda,2017,2014-2019,750000,1L-10L,"3,000 kms",3000,0k-5k,Petrol
+Hyundai Elite i20 Magna 1.2,Hyundai,2015,2014-2019,419000,1L-10L,"20,000 kms",20000,10k-30k,Petrol
+Maruti Suzuki Versa DX2 8 SEATER BSIII,Maruti,2004,1999-2004,90000,30k-1L,"50,000 kms",50000,30k-60k,Petrol
+Hyundai Eon Era Plus,Hyundai,2018,2014-2019,140000,1L-10L,"2,110 kms",2110,0k-5k,Petrol
+Mitsubishi Pajero Sport Limited Edition,Mitsubishi,2015,2014-2019,1540000,10L-30L,"43,222 kms",43222,30k-60k,Petrol
+Hyundai i10 Magna 1.2 Kappa2,Hyundai,2008,2005-2009,275000,1L-10L,"1,00,200 kms",100200,1L-1.5L,Petrol
+Toyota Corolla H2,Toyota,2003,1999-2004,150000,1L-10L,"1,00,000 kms",100000,60k-1L,Petrol
+Maruti Suzuki Swift Dzire Tour VXi,Maruti,2011,2009-2014,230000,1L-10L,65 kms,65,0k-5k,Petrol
+Tata Indigo CS eLS BS IV,Tata,2015,2014-2019,123000,1L-10L,"1,00,000 kms",100000,60k-1L,Diesel
+Hyundai Xcent Base 1.1 CRDi,Hyundai,2016,2014-2019,300000,1L-10L,"1,40,000 kms",140000,1L-1.5L,Diesel
+Hyundai Accent Executive Edition,Hyundai,2009,2005-2009,165000,1L-10L,"48,000 kms",48000,30k-60k,Petrol
+Maruti Suzuki Baleno Delta 1.2,Maruti,2016,2014-2019,498000,1L-10L,"22,000 kms",22000,10k-30k,Petrol
+Tata Zest XE 75 PS Diesel,Tata,2018,2014-2019,480000,1L-10L,"1,03,553 kms",103553,1L-1.5L,Diesel
+Maruti Suzuki Dzire LDI,Maruti,2017,2014-2019,488000,1L-10L,"80,000 kms",80000,60k-1L,Diesel
+Tata Sumo Gold LX BS IV,Tata,2014,2009-2014,250000,1L-10L,"99,000 kms",99000,60k-1L,Diesel
+Toyota Corolla Altis GL Petrol,Toyota,2010,2009-2014,220000,1L-10L,"58,000 kms",58000,30k-60k,Petrol
+Maruti Suzuki Eeco 7 STR,Maruti,2013,2009-2014,290000,1L-10L,"70,000 kms",70000,60k-1L,LPG
+Toyota Fortuner 3.0 4x2 MT,Toyota,2015,2014-2019,1525000,10L-30L,"1,20,000 kms",120000,1L-1.5L,Diesel
+Mahindra XUV500 W6,Mahindra,2013,2009-2014,548900,1L-10L,"49,800 kms",49800,30k-60k,Diesel
+Tata Tigor Revotron XZ,Tata,2019,2014-2019,650000,1L-10L,100 kms,100,0k-5k,Diesel
+Maruti Suzuki 800,Maruti,2001,1999-2004,55000,30k-1L,"81,876 kms",81876,60k-1L,Petrol
+Maruti Suzuki Ertiga Vxi,Maruti,2015,2014-2019,550000,1L-10L,"75,000 kms",75000,60k-1L,Petrol
+Honda Mobilio S i DTEC,Honda,2014,2009-2014,399000,1L-10L,"44,000 kms",44000,30k-60k,Diesel
+Maruti Suzuki Ertiga,Maruti,2016,2014-2019,730000,1L-10L,"55,000 kms",55000,30k-60k,Diesel
+Maruti Suzuki Vitara Brezza,Maruti,2017,2014-2019,725000,1L-10L,"36,000 kms",36000,30k-60k,Diesel
+Hyundai Verna 1.6 CRDI E,Hyundai,2016,2014-2019,195000,1L-10L,"56,000 kms",56000,30k-60k,Diesel
+Maruti Suzuki Swift VXI BSIII,Maruti,2007,2005-2009,130000,1L-10L,"62,000 kms",62000,60k-1L,Petrol
+Maruti Suzuki Omni Select Variant,Maruti,2014,2009-2014,190000,1L-10L,"6,020 kms",6020,5k-10k,Petrol
+Honda Amaze,Honda,2013,2009-2014,250000,1L-10L,"55,700 kms",55700,30k-60k,Diesel
+Tata Indica,Tata,2005,2005-2009,80000,30k-1L,"42,000 kms",42000,30k-60k,Petrol
+Hyundai Santro Xing,Hyundai,2003,1999-2004,120000,1L-10L,"50,000 kms",50000,30k-60k,Petrol
+Maruti Suzuki Zen Estilo,Maruti,2010,2009-2014,149000,1L-10L,"35,000 kms",35000,30k-60k,Petrol
+Maruti Suzuki Wagon R LXI BS IV,Maruti,2014,2009-2014,250000,1L-10L,"18,500 kms",18500,10k-30k,Petrol
+Maruti Suzuki Wagon R,Maruti,2007,2005-2009,120000,1L-10L,"7,000 kms",7000,5k-10k,Petrol
+Honda Brio VX AT,Honda,2017,2014-2019,450000,1L-10L,"11,000 kms",11000,10k-30k,Petrol
+Maruti Suzuki Zen LXi BSII,Maruti,2003,1999-2004,99999,30k-1L,"53,000 kms",53000,30k-60k,Petrol
+Maruti Suzuki Zen Estilo LXI Green CNG,Maruti,2008,2005-2009,135000,1L-10L,"23,000 kms",23000,10k-30k,Petrol
+Maruti Suzuki Wagon R Select Variant,Maruti,2016,2014-2019,225000,1L-10L,"35,500 kms",35500,30k-60k,Diesel
+Maruti Suzuki Alto LXi BS III,Maruti,2010,2009-2014,99000,30k-1L,"22,134 kms",22134,10k-30k,Petrol
+Renault Kwid RXT,Renault,2019,2014-2019,370000,1L-10L,"1,000 kms",1000,0k-5k,Petrol
+Tata Nano Lx BSIV,Tata,2010,2009-2014,52000,30k-1L,"9,000 kms",9000,5k-10k,Petrol
+Jaguar XE XE Portfolio,Jaguar,2016,2014-2019,2800000,10L-30L,"8,500 kms",8500,5k-10k,Petrol
+Hyundai Eon Magna Plus,Hyundai,2014,2009-2014,190000,1L-10L,"35,000 kms",35000,30k-60k,Petrol
+Honda City 1.5 S MT,Honda,2014,2009-2014,499000,1L-10L,"22,000 kms",22000,10k-30k,Petrol
+Hindustan Motors Ambassador,Hindustan,2002,1999-2004,90000,30k-1L,"25,000 kms",25000,10k-30k,Diesel
+Maruti Suzuki Ritz GENUS VXI,Maruti,2010,2009-2014,149000,1L-10L,"40,000 kms",40000,30k-60k,Petrol
+Hyundai Grand i10 Magna AT 1.2 Kappa VTVT,Hyundai,2017,2014-2019,400000,1L-10L,"20,000 kms",20000,10k-30k,Petrol
+Hyundai Eon D Lite Plus,Hyundai,2016,2014-2019,120000,1L-10L,"87,000 kms",87000,60k-1L,Petrol
+Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,2015,2014-2019,250000,1L-10L,"55,000 kms",55000,30k-60k,Petrol
+Maruti Suzuki Wagon R VXI BS IV,Maruti,2017,2014-2019,375000,1L-10L,"23,000 kms",23000,10k-30k,Petrol
+Honda Amaze 1.2 VX i VTEC,Honda,2014,2009-2014,381000,1L-10L,"6,000 kms",6000,5k-10k,Petrol
+Maruti Suzuki Estilo VXi ABS BS IV,Maruti,2013,2009-2014,180000,1L-10L,"65,000 kms",65000,60k-1L,Petrol
+Maruti Suzuki Vitara Brezza LDi O,Maruti,2016,2014-2019,580000,1L-10L,"25,000 kms",25000,10k-30k,Diesel
+Maruti Suzuki Eeco 5 STR WITH AC HTR,Maruti,2015,2014-2019,278000,1L-10L,"39,000 kms",39000,30k-60k,Petrol
+Hyundai Creta 1.6 SX Plus Petrol AT,Hyundai,2016,2014-2019,1000000,1L-10L,"8,000 kms",8000,5k-10k,Petrol
+Mahindra Scorpio Vlx BSIV,Mahindra,2013,2009-2014,690000,1L-10L,"75,000 kms",75000,60k-1L,Diesel
+Maruti Suzuki Ertiga VDi,Maruti,2012,2009-2014,480000,1L-10L,"51,000 kms",51000,30k-60k,Diesel
+Mitsubishi Lancer 1.8 LXi,Mitsubishi,2006,2005-2009,85000,30k-1L,"50,000 kms",50000,30k-60k,Petrol
+Maruti Suzuki Maruti 800 AC,Maruti,2001,1999-2004,40000,30k-1L,"75,000 kms",75000,60k-1L,Petrol
+Maruti Suzuki Alto 800 LXI CNG O,Maruti,2015,2014-2019,90000,30k-1L,"55,800 kms",55800,30k-60k,Petrol
+Hyundai Grand i10 Magna 1.2 Kappa VTVT,Hyundai,2015,2014-2019,340000,1L-10L,"53,000 kms",53000,30k-60k,Petrol
+Hyundai Eon D Lite Plus,Hyundai,2018,2014-2019,260000,1L-10L,"25,000 kms",25000,10k-30k,Petrol
+Ford Fiesta SXi 1.6 ABS,Ford,2009,2005-2009,250000,1L-10L,"56,400 kms",56400,30k-60k,Petrol
+Maruti Suzuki Ritz VDi,Maruti,2010,2009-2014,180000,1L-10L,"72,160 kms",72160,60k-1L,Diesel
+Hyundai Verna Fluidic New,Hyundai,2012,2009-2014,350000,1L-10L,"10,000 kms",10000,5k-10k,Diesel
+Maruti Suzuki Wagon R LXi BS III,Maruti,2006,2005-2009,90001,30k-1L,"48,000 kms",48000,30k-60k,Petrol
+Maruti Suzuki Estilo LX BS IV,Maruti,2007,2005-2009,115000,1L-10L,"36,000 kms",36000,30k-60k,Petrol
+Audi A6 2.0 TDI Premium,Audi,2012,2009-2014,1599000,10L-30L,"11,500 kms",11500,10k-30k,Diesel
+Maruti Suzuki Wagon R LXi BS III,Maruti,2003,1999-2004,130000,1L-10L,"1,33,000 kms",133000,1L-1.5L,Petrol
+Maruti Suzuki Wagon R,Maruti,2009,2005-2009,159000,1L-10L,"27,000 kms",27000,10k-30k,Petrol
+Maruti Suzuki Wagon R,Maruti,2009,2005-2009,160000,1L-10L,"35,000 kms",35000,30k-60k,Petrol
+Maruti Suzuki Alto,Maruti,2010,2009-2014,110000,1L-10L,"55,000 kms",55000,30k-60k,Petrol
+Maruti Suzuki Baleno Sigma 1.2,Maruti,2016,2014-2019,425000,1L-10L,"40,000 kms",40000,30k-60k,Petrol
+Hyundai Verna 1.6 SX VTVT AT,Hyundai,2019,2014-2019,900000,1L-10L,"2,000 kms",2000,0k-5k,Petrol
+Maruti Suzuki Swift GLAM,Maruti,2009,2005-2009,150000,1L-10L,"45,000 kms",45000,30k-60k,Petrol
+Hyundai Getz Prime 1.3 GVS,Hyundai,2009,2005-2009,110000,1L-10L,"20,000 kms",20000,10k-30k,Petrol
+Hyundai Santro,Hyundai,2000,1999-2004,51999,30k-1L,"88,000 kms",88000,60k-1L,Petrol
+Hyundai Getz Prime 1.3 GLX,Hyundai,2009,2005-2009,115000,1L-10L,"20,000 kms",20000,10k-30k,Petrol
+Chevrolet Beat PS Diesel,Chevrolet,2012,2009-2014,215000,1L-10L,"65,422 kms",65422,60k-1L,Diesel
+Ford EcoSport Trend 1.5 Ti VCT,Ford,2017,2014-2019,580000,1L-10L,"10,000 kms",10000,5k-10k,Petrol
+Maruti Suzuki Dzire ZXI,Maruti,2013,2009-2014,380000,1L-10L,"35,000 kms",35000,30k-60k,Petrol
+Hyundai Fluidic Verna 1.6 CRDi SX,Hyundai,2013,2009-2014,350000,1L-10L,"1,17,000 kms",117000,1L-1.5L,Diesel
+Tata Indica V2 DLG,Tata,2005,2005-2009,35000,30k-1L,"1,50,000 kms",150000,1L-1.5L,Diesel
+BMW X1 xDrive20d xLine,BMW,2011,2009-2014,1150000,10L-30L,"72,000 kms",72000,60k-1L,Diesel
+Hyundai i20 Asta 1.2,Hyundai,2010,2009-2014,300000,1L-10L,"10,750 kms",10750,10k-30k,Petrol
+Honda City 1.5 V AT,Honda,2009,2005-2009,269000,1L-10L,"55,000 kms",55000,30k-60k,Petrol
+Tata Nano,Tata,2013,2009-2014,60000,30k-1L,"6,800 kms",6800,5k-10k,Petrol
+Chevrolet Cruze LTZ AT,Chevrolet,2014,2009-2014,400000,1L-10L,"41,000 kms",41000,30k-60k,Diesel
+Hyundai Verna Fluidic New,Hyundai,2015,2014-2019,430000,1L-10L,"73,000 kms",73000,60k-1L,Diesel
+Maruti Suzuki Swift Dzire VDi,Maruti,2011,2009-2014,140000,1L-10L,"65,000 kms",65000,60k-1L,Diesel
+Mahindra XUV500 W6,Mahindra,2014,2009-2014,8500003,60L-1CR,"45,000 kms",45000,30k-60k,Diesel
+Mahindra XUV500 W10,Mahindra,2018,2014-2019,1299000,10L-30L,"40,000 kms",40000,30k-60k,Diesel
+Maruti Suzuki Alto K10 LXi CNG,Maruti,2014,2009-2014,199000,1L-10L,"37,000 kms",37000,30k-60k,Petrol
+Hyundai Accent GLE,Hyundai,2006,2005-2009,90000,30k-1L,"55,000 kms",55000,30k-60k,Petrol
+Force Motors One SUV,Force,2013,2009-2014,550000,1L-10L,"1,40,000 kms",140000,1L-1.5L,Diesel
+Maruti Suzuki Alto,Maruti,2019,2014-2019,265000,1L-10L,"9,800 kms",9800,5k-10k,Petrol
+Chevrolet Spark 1.0 LT,Chevrolet,2011,2009-2014,100000,30k-1L,"27,000 kms",27000,10k-30k,Petrol
+Hyundai i10,Hyundai,2009,2005-2009,215000,1L-10L,"27,000 kms",27000,10k-30k,Petrol
+Toyota Etios Liva GD,Toyota,2012,2009-2014,380000,1L-10L,"20,000 kms",20000,10k-30k,Diesel
+Renault Duster 85PS Diesel RxL Optional with Nav,Renault,2013,2009-2014,401919,1L-10L,"57,923 kms",57923,30k-60k,Diesel
+Chevrolet Enjoy,Chevrolet,2014,2009-2014,490000,1L-10L,"30,201 kms",30201,30k-60k,Diesel
+Maruti Suzuki Alto 800 Lxi,Maruti,2017,2014-2019,280000,1L-10L,"6,200 kms",6200,5k-10k,Petrol
+BMW 5 Series 530i,BMW,2009,2005-2009,650000,1L-10L,"37,518 kms",37518,30k-60k,Petrol
+Toyota Etios Liva G,Toyota,2014,2009-2014,160000,1L-10L,"24,652 kms",24652,10k-30k,Petrol
+Mahindra Jeep MM 550 XDB,Mahindra,2004,1999-2004,424000,1L-10L,383 kms,383,0k-5k,Diesel
+Chevrolet Beat LS Diesel,Chevrolet,2016,2014-2019,225000,1L-10L,"95,000 kms",95000,60k-1L,Diesel
+Chevrolet Cruze LTZ,Chevrolet,2011,2009-2014,350000,1L-10L,"35,000 kms",35000,30k-60k,Diesel
+Jeep Wrangler Unlimited 4x4 Diesel,Jeep,2015,2014-2019,950000,1L-10L,"3,528 kms",3528,0k-5k,Diesel
+Maruti Suzuki Ertiga VDi,Maruti,2013,2009-2014,485000,1L-10L,"52,500 kms",52500,30k-60k,Diesel
+Hyundai Verna VGT CRDi SX ABS,Hyundai,2010,2009-2014,205000,1L-10L,"47,900 kms",47900,30k-60k,Diesel
+Maruti Suzuki Omni,Maruti,2012,2009-2014,160000,1L-10L,"14,000 kms",14000,10k-30k,Petrol
+Maruti Suzuki Celerio VDi,Maruti,2018,2014-2019,310000,1L-10L,"37,000 kms",37000,30k-60k,Petrol
+Tata Zest Quadrajet 1.3,Tata,2017,2014-2019,180000,1L-10L,"90,000 kms",90000,60k-1L,Diesel
+Mahindra XUV500 W6,Mahindra,2013,2009-2014,549900,1L-10L,"52,800 kms",52800,30k-60k,Diesel
+Tata Indigo CS eLX BS IV,Tata,2016,2014-2019,150000,1L-10L,"1,04,000 kms",104000,1L-1.5L,Diesel
+Hyundai i10 Era,Hyundai,2011,2009-2014,175000,1L-10L,"30,000 kms",30000,10k-30k,Petrol
+Tata Indigo eCS LX TDI BS III,Tata,2014,2009-2014,95000,30k-1L,"1,95,000 kms",195000,1.5L-2L,Diesel
+Tata Indigo LX TDI BS III,Tata,2016,2014-2019,230000,1L-10L,"1,04,000 kms",104000,1L-1.5L,Diesel
+Tata Indigo eCS LX CR4 BS IV,Tata,2016,2014-2019,230000,1L-10L,"1,04,000 kms",104000,1L-1.5L,Diesel
+Tata Indigo Marina LS,Tata,2004,1999-2004,180000,1L-10L,"70,000 kms",70000,60k-1L,Diesel
+Hyundai Xcent SX 1.2,Hyundai,2015,2014-2019,400000,1L-10L,"43,000 kms",43000,30k-60k,Diesel
+Hyundai Eon Magna Plus,Hyundai,2013,2009-2014,185000,1L-10L,"23,000 kms",23000,10k-30k,Petrol
+Renault Duster 85 PS RxL Diesel,Renault,2015,2014-2019,385000,1L-10L,"51,000 kms",51000,30k-60k,Diesel
+Maruti Suzuki Alto K10 LXi CNG,Maruti,2009,2005-2009,90000,30k-1L,"62,000 kms",62000,60k-1L,Petrol
+Tata Nano LX Special Edition,Tata,2010,2009-2014,32000,30k-1L,"48,008 kms",48008,30k-60k,Petrol
+Renault Duster 110 PS RxZ Diesel,Renault,2013,2009-2014,435000,1L-10L,"39,000 kms",39000,30k-60k,Diesel
+Maruti Suzuki Wagon R AX BSIV,Maruti,2010,2009-2014,225000,1L-10L,"40,000 kms",40000,30k-60k,Petrol
+Maruti Suzuki Swift,Maruti,2006,2005-2009,189700,1L-10L,"48,247 kms",48247,30k-60k,Petrol
+Maruti Suzuki Ertiga,Maruti,2012,2009-2014,389700,1L-10L,"39,000 kms",39000,30k-60k,Diesel
+Maruti Suzuki Swift VXi 1.2 ABS BS IV,Maruti,2014,2009-2014,365000,1L-10L,"23,000 kms",23000,10k-30k,Petrol
+Maruti Suzuki Alto K10 New,Maruti,2017,2014-2019,360000,1L-10L,"9,400 kms",9400,5k-10k,Petrol
+Hyundai i20 Magna,Hyundai,2010,2009-2014,210000,1L-10L,"50,000 kms",50000,30k-60k,Petrol
+Hyundai i10 Magna 1.2,Hyundai,2009,2005-2009,170000,1L-10L,"75,000 kms",75000,60k-1L,Petrol
+Tata Zest XE 75 PS Diesel,Tata,2017,2014-2019,380000,1L-10L,"70,000 kms",70000,60k-1L,Diesel
+Mahindra Xylo E8,Mahindra,2009,2005-2009,295000,1L-10L,"64,000 kms",64000,60k-1L,Diesel
+Toyota Corolla Altis GL Petrol,Toyota,2010,2009-2014,185000,1L-10L,"55,000 kms",55000,30k-60k,Petrol
+Tata Manza Aqua Quadrajet,Tata,2014,2009-2014,160000,1L-10L,"2,00,000 kms",200000,1.5L-2L,Diesel
+Renault Kwid 1.0,Renault,2018,2014-2019,290000,1L-10L,"2,137 kms",2137,0k-5k,Petrol
+Tata Venture EX 8 STR,Tata,2013,2009-2014,100000,30k-1L,"30,000 kms",30000,10k-30k,Diesel
+Maruti Suzuki Swift Dzire Tour LXi,Maruti,2014,2009-2014,315000,1L-10L,"44,000 kms",44000,30k-60k,Petrol
+Skoda Octavia Classic 1.9 TDI MT,Skoda,2006,2005-2009,114990,1L-10L,"65,000 kms",65000,60k-1L,Diesel
+Maruti Suzuki Omni LPG BS IV,Maruti,2012,2009-2014,120000,1L-10L,"1,60,000 kms",160000,1.5L-2L,LPG
+Chevrolet Beat Diesel,Chevrolet,2011,2009-2014,125000,1L-10L,"56,000 kms",56000,30k-60k,Diesel
+Tata Sumo Gold EX BS IV,Tata,2012,2009-2014,210000,1L-10L,"75,000 kms",75000,60k-1L,Diesel
+Hyundai Verna 1.6 CRDI SX,Hyundai,2018,2014-2019,855000,1L-10L,"42,000 kms",42000,30k-60k,Diesel
+Mahindra Scorpio 2.6 CRDe,Mahindra,2007,2005-2009,260000,1L-10L,"56,000 kms",56000,30k-60k,Diesel
+Maruti Suzuki Zen LXi BS III,Maruti,2002,1999-2004,95000,30k-1L,"10,544 kms",10544,10k-30k,Petrol
+Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,2011,2009-2014,255000,1L-10L,"64,000 kms",64000,60k-1L,Petrol
+Mahindra Scorpio SLX 2.6 Turbo 8 Str,Mahindra,2008,2005-2009,300000,1L-10L,"70,000 kms",70000,60k-1L,Diesel
+Hyundai Grand i10 Sportz 1.2 Kappa VTVT,Hyundai,2014,2009-2014,340000,1L-10L,"25,000 kms",25000,10k-30k,Petrol
+Hyundai Elite i20 Sportz 1.2,Hyundai,2017,2014-2019,550000,1L-10L,"15,000 kms",15000,10k-30k,Petrol
+Ford Ikon 1.6 Nxt,Ford,2003,1999-2004,60000,30k-1L,"50,000 kms",50000,30k-60k,Petrol
+Toyota Innova 2.5 V 7 STR,Toyota,2011,2009-2014,750000,1L-10L,"1,47,000 kms",147000,1L-1.5L,Diesel
+Nissan Sunny XL,Nissan,2011,2009-2014,230000,1L-10L,"52,000 kms",52000,30k-60k,Petrol
+Chevrolet Beat LT Diesel,Chevrolet,2012,2009-2014,130000,1L-10L,"90,001 kms",90001,60k-1L,Diesel
+Maruti Suzuki Alto 800 Lxi,Maruti,2017,2014-2019,270000,1L-10L,"21,000 kms",21000,10k-30k,Petrol
+Maruti Suzuki Swift VDi BS IV,Maruti,2012,2009-2014,280000,1L-10L,"48,006 kms",48006,30k-60k,Diesel
+Maruti Suzuki Swift,Maruti,2012,2009-2014,280000,1L-10L,"48,006 kms",48006,30k-60k,Diesel
+Toyota Innova 2.0 G4,Toyota,2012,2009-2014,600000,1L-10L,"80,000 kms",80000,60k-1L,Diesel
+Maruti Suzuki Swift VDi ABS,Maruti,2010,2009-2014,190000,1L-10L,"74,000 kms",74000,60k-1L,Diesel
+Hyundai Elite i20 Asta 1.2,Hyundai,2015,2014-2019,500000,1L-10L,"22,000 kms",22000,10k-30k,Petrol
+Mahindra XUV500 W10,Mahindra,2016,2014-2019,1065000,10L-30L,"41,000 kms",41000,30k-60k,Diesel
+Volkswagen Polo Trendline 1.5L D,Volkswagen,2015,2014-2019,350000,1L-10L,"25,000 kms",25000,10k-30k,Diesel
+Toyota Etios Liva Diesel,Toyota,2012,2009-2014,350000,1L-10L,"85,000 kms",85000,60k-1L,Diesel
+Mahindra TUV300 T4 Plus,Mahindra,2016,2014-2019,540000,1L-10L,"29,500 kms",29500,10k-30k,Diesel
+Hyundai Elite i20 Asta 1.2,Hyundai,2015,2014-2019,470000,1L-10L,"30,000 kms",30000,10k-30k,Petrol
+Hyundai Santro Xing GLS,Hyundai,2014,2009-2014,179000,1L-10L,"57,000 kms",57000,30k-60k,Petrol
+Maruti Suzuki Zen LXi BS III,Maruti,2003,1999-2004,48000,30k-1L,"60,000 kms",60000,30k-60k,Petrol
+Maruti Suzuki Ciaz ZXi Plus RS,Maruti,2016,2014-2019,650000,1L-10L,"50,000 kms",50000,30k-60k,Petrol
+Hyundai Eon Era Plus,Hyundai,2013,2009-2014,190000,1L-10L,"39,700 kms",39700,30k-60k,Petrol
+Hyundai Elantra 1.8 S,Hyundai,2012,2009-2014,500000,1L-10L,"65,000 kms",65000,60k-1L,Petrol
+Maruti Suzuki Swift VDi,Maruti,2010,2009-2014,270000,1L-10L,"67,000 kms",67000,60k-1L,Diesel
+Maruti Suzuki Zen Estilo LXI Green CNG,Maruti,2008,2005-2009,125000,1L-10L,"46,000 kms",46000,30k-60k,Petrol
+Hyundai Eon Era Plus,Hyundai,2012,2009-2014,188000,1L-10L,"38,000 kms",38000,30k-60k,Petrol
+Hyundai Grand i10 Magna 1.2 Kappa VTVT,Hyundai,2016,2014-2019,380000,1L-10L,"27,000 kms",27000,10k-30k,Petrol
+Hyundai Verna Fluidic New,Hyundai,2011,2009-2014,365000,1L-10L,"43,000 kms",43000,30k-60k,Diesel
+Ford EcoSport Trend 1.5L Ti VCT,Ford,2014,2009-2014,465000,1L-10L,"47,000 kms",47000,30k-60k,Petrol
+Hyundai i20 Magna,Hyundai,2011,2009-2014,240000,1L-10L,"42,000 kms",42000,30k-60k,Petrol
+Chevrolet Beat Diesel,Chevrolet,2016,2014-2019,179999,1L-10L,"19,336 kms",19336,10k-30k,Diesel
+Tata Indica eV2 LS,Tata,2015,2014-2019,140000,1L-10L,"60,105 kms",60105,60k-1L,Diesel
+Jaguar XF 2.2 Diesel Luxury,Jaguar,2013,2009-2014,2190000,10L-30L,"29,000 kms",29000,10k-30k,Diesel
+Audi Q5 2.0 TDI quattro Premium Plus,Audi,2014,2009-2014,2390000,10L-30L,"34,000 kms",34000,30k-60k,Diesel
+BMW 3 Series 320d Sedan,BMW,2011,2009-2014,1075000,10L-30L,"35,000 kms",35000,30k-60k,Diesel
+Maruti Suzuki Swift ZXi 1.2 BS IV,Maruti,2015,2014-2019,475000,1L-10L,"22,000 kms",22000,10k-30k,Petrol
+BMW X1 sDrive20d,BMW,2012,2009-2014,1025000,10L-30L,"41,000 kms",41000,30k-60k,Diesel
+Maruti Suzuki S Cross Sigma 1.3,Maruti,2016,2014-2019,615000,1L-10L,"21,000 kms",21000,10k-30k,Diesel
+Maruti Suzuki Ertiga LDi,Maruti,2013,2009-2014,475000,1L-10L,"48,000 kms",48000,30k-60k,Diesel
+Maruti Suzuki Alto K10 VXi AMT,Maruti,2016,2014-2019,270000,1L-10L,"38,000 kms",38000,30k-60k,Petrol
+Honda City SV,Honda,2014,2009-2014,475000,1L-10L,"34,000 kms",34000,30k-60k,Diesel
+Volkswagen Vento Comfortline Petrol,Volkswagen,2011,2009-2014,240000,1L-10L,"45,933 kms",45933,30k-60k,Petrol
+Honda City 1.5 EXi New,Honda,2005,2005-2009,120000,1L-10L,"68,000 kms",68000,60k-1L,Petrol
+Audi A4 2.0 TDI 177bhp Premium,Audi,2016,2014-2019,1900000,10L-30L,"44,000 kms",44000,30k-60k,Diesel
+Mahindra KUV100,Mahindra,2017,2014-2019,360000,1L-10L,"35,000 kms",35000,30k-60k,Diesel
+Tata Zest XE 75 PS Diesel,Tata,2018,2014-2019,450000,1L-10L,"1,02,563 kms",102563,1L-1.5L,Diesel
+Mahindra XUV500 W8,Mahindra,2015,2014-2019,900000,1L-10L,"28,600 kms",28600,10k-30k,Diesel
+Maruti Suzuki Swift Dzire Tour VDi,Maruti,2017,2014-2019,650000,1L-10L,"41,800 kms",41800,30k-60k,Diesel
+Tata Sumo Gold LX BS IV,Tata,2014,2009-2014,275000,1L-10L,"1,16,000 kms",116000,1L-1.5L,Diesel
+Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,2009,2005-2009,210000,1L-10L,"59,000 kms",59000,30k-60k,Petrol
+Mahindra Scorpio 2.6 SLX,Mahindra,2004,1999-2004,175000,1L-10L,"58,000 kms",58000,30k-60k,Diesel
+Maruti Suzuki Omni 8 STR BS III,Maruti,2009,2005-2009,85000,30k-1L,"45,000 kms",45000,30k-60k,Petrol
+Mitsubishi Pajero Sport Limited Edition,Mitsubishi,2015,2014-2019,1490000,10L-30L,"42,590 kms",42590,30k-60k,Diesel
+Renault Duster,Renault,2014,2009-2014,800000,1L-10L,"7,400 kms",7400,5k-10k,Diesel
+Volkswagen Jetta Comfortline 1.9 TDI AT,Volkswagen,2009,2005-2009,450000,1L-10L,"54,500 kms",54500,30k-60k,Diesel
+Maruti Suzuki Ertiga Vxi,Maruti,2012,2009-2014,1000000,1L-10L,"2,00,000 kms",200000,1.5L-2L,Diesel
+Audi A4 2.0 TDI 177bhp Premium,Audi,2013,2009-2014,1510000,10L-30L,"27,000 kms",27000,10k-30k,Diesel
+Volvo S80 Summum D4,Volvo,2015,2014-2019,1850000,10L-30L,"42,000 kms",42000,30k-60k,Diesel
+Toyota Corolla Altis VL AT Petrol,Toyota,2014,2009-2014,790000,1L-10L,"29,000 kms",29000,10k-30k,Petrol
+Mitsubishi Pajero Sport 2.5 AT,Mitsubishi,2015,2014-2019,1725000,10L-30L,"37,000 kms",37000,30k-60k,Diesel
+Chevrolet Beat LT Petrol,Chevrolet,2012,2009-2014,135000,1L-10L,"36,000 kms",36000,30k-60k,Petrol
+BMW X1,BMW,2011,2009-2014,1000000,1L-10L,"34,000 kms",34000,30k-60k,Diesel
+Datsun Redi GO S,Datsun,2018,2014-2019,299999,1L-10L,"7,000 kms",7000,5k-10k,Petrol
+Mercedes Benz C Class C 220 CDI Avantgarde,Mercedes,2009,2005-2009,1225000,10L-30L,"76,000 kms",76000,60k-1L,Diesel
+Mahindra Scorpio SLX,Mahindra,2004,1999-2004,175000,1L-10L,"60,000 kms",60000,30k-60k,Diesel
+Volkswagen Vento Comfortline Diesel,Volkswagen,2011,2009-2014,200000,1L-10L,"95,000 kms",95000,60k-1L,Diesel
+Tata Indigo CS GLS,Tata,2017,2014-2019,270000,1L-10L,"50,000 kms",50000,30k-60k,Diesel
+Ford Figo Petrol Titanium,Ford,2019,2014-2019,525000,1L-10L,00 kms,0,0k-5k,Petrol
+Honda City ZX GXi,Honda,2006,2005-2009,180000,1L-10L,"50,000 kms",50000,30k-60k,Petrol
+Maruti Suzuki Wagon R Duo Lxi,Maruti,2008,2005-2009,140000,1L-10L,"68,000 kms",68000,60k-1L,Petrol
+Ford EcoSport Trend 1.5L TDCi,Ford,2014,2009-2014,400000,1L-10L,"16,000 kms",16000,10k-30k,Petrol
+Maruti Suzuki Swift Dzire VDi,Maruti,2016,2014-2019,499000,1L-10L,"51,000 kms",51000,30k-60k,Diesel
+Maruti Suzuki Omni 8 STR BS III,Maruti,2009,2005-2009,85000,30k-1L,"56,000 kms",56000,30k-60k,Petrol
+Maruti Suzuki Zen LX BSII,Maruti,2004,1999-2004,70000,30k-1L,"1,00,000 kms",100000,60k-1L,Petrol
+Renault Duster RxL Petrol,Renault,2015,2014-2019,550000,1L-10L,"36,000 kms",36000,30k-60k,Petrol
+Maruti Suzuki Swift VXi 1.2 BS IV,Maruti,2014,2009-2014,370000,1L-10L,"11,523 kms",11523,10k-30k,Petrol
+Maruti Suzuki Baleno Zeta 1.2,Maruti,2018,2014-2019,690000,1L-10L,"1,000 kms",1000,0k-5k,Petrol
+Honda WR V S MT Petrol,Honda,2009,2005-2009,250000,1L-10L,"60,000 kms",60000,30k-60k,Petrol
+Tata Indigo CS eLX BS IV,Tata,2016,2014-2019,110000,1L-10L,"85,000 kms",85000,60k-1L,Diesel
+Renault Duster 110 PS RxL Diesel,Renault,2013,2009-2014,490000,1L-10L,"38,600 kms",38600,30k-60k,Diesel
+Mahindra Scorpio LX BS III,Mahindra,2009,2005-2009,320000,1L-10L,"95,500 kms",95500,60k-1L,Diesel
+Maruti Suzuki Zen LXi BS III,Maruti,2004,1999-2004,68000,30k-1L,"56,000 kms",56000,30k-60k,Petrol
+Maruti Suzuki Wagon R LXi BS III,Maruti,2014,2009-2014,130000,1L-10L,"37,458 kms",37458,30k-60k,Petrol
+Maruti Suzuki SX4 Celebration Diesel,Maruti,2016,2014-2019,970000,1L-10L,"85,960 kms",85960,60k-1L,Diesel
+Audi A3 Cabriolet 40 TFSI,Audi,2015,2014-2019,3100000,30L-60L,"12,516 kms",12516,10k-30k,Petrol
+Hyundai Eon D Lite Plus,Hyundai,2018,2014-2019,280000,1L-10L,"35,000 kms",35000,30k-60k,Petrol
+Maruti Suzuki Zen Estilo LXI Green CNG,Maruti,2009,2005-2009,125000,1L-10L,00 kms,0,0k-5k,Petrol
+Mahindra Scorpio SLX,Mahindra,2008,2005-2009,285000,1L-10L,"80,000 kms",80000,60k-1L,Diesel
+Hyundai Santro AE GLS Audio,Hyundai,2011,2009-2014,165000,1L-10L,"45,000 kms",45000,30k-60k,Petrol
+Maruti Suzuki Swift Dzire Tour VDi,Maruti,2009,2005-2009,250000,1L-10L,"51,000 kms",51000,30k-60k,Diesel
+Mahindra Xylo D2 BS IV,Mahindra,2011,2009-2014,390000,1L-10L,"48,000 kms",48000,30k-60k,Diesel
+Hyundai Santro,Hyundai,2003,1999-2004,60000,30k-1L,"51,000 kms",51000,30k-60k,Petrol
+Chevrolet Beat LT Diesel,Chevrolet,2015,2014-2019,215000,1L-10L,"90,000 kms",90000,60k-1L,Diesel
+Maruti Suzuki Swift Dzire VDi,Maruti,2015,2014-2019,475000,1L-10L,"43,000 kms",43000,30k-60k,Diesel
+Mahindra XUV500 W8,Mahindra,2015,2014-2019,899000,1L-10L,"53,000 kms",53000,30k-60k,Diesel
+Toyota Fortuner 3.0 4x4 MT,Toyota,2013,2009-2014,1499000,10L-30L,"97,000 kms",97000,60k-1L,Diesel
+Maruti Suzuki Alto K10 VXi,Maruti,2013,2009-2014,240000,1L-10L,"20,000 kms",20000,10k-30k,Petrol
+Hyundai Getz GLE,Hyundai,2007,2005-2009,99000,30k-1L,"55,000 kms",55000,30k-60k,Petrol
+Maruti Suzuki Swift Dzire Tour LDi,Maruti,2014,2009-2014,260000,1L-10L,"1,20,000 kms",120000,1L-1.5L,Diesel
+Hyundai Creta 1.6 SX,Hyundai,2019,2014-2019,1200000,10L-30L,0 kms,0,0k-5k,Petrol
+Hyundai Santro Xing XL AT eRLX Euro III,Hyundai,2007,2005-2009,115000,1L-10L,"46,000 kms",46000,30k-60k,Petrol
+Hyundai Santro Xing XL eRLX Euro III,Hyundai,2009,2005-2009,88000,30k-1L,"43,200 kms",43200,30k-60k,Petrol
+Mahindra Xylo D2 BS IV,Mahindra,2011,2009-2014,390000,1L-10L,"56,000 kms",56000,30k-60k,Diesel
+Hyundai Santro Xing XL eRLX Euro III,Hyundai,2007,2005-2009,135000,1L-10L,"42,000 kms",42000,30k-60k,Petrol
+Tata Indica V2 DLS BS III,Tata,2009,2005-2009,90000,30k-1L,"30,600 kms",30600,30k-60k,Diesel
+Hyundai i10 Sportz 1.2,Hyundai,2011,2009-2014,220000,1L-10L,"38,000 kms",38000,30k-60k,Petrol
+Hyundai Grand i10 Magna 1.2 Kappa VTVT,Hyundai,2017,2014-2019,424999,1L-10L,"2,550 kms",2550,0k-5k,Petrol
+Hyundai Santro Xing XL AT eRLX Euro III,Hyundai,2007,2005-2009,135000,1L-10L,"47,000 kms",47000,30k-60k,Petrol
+Honda City 1.5 E MT,Honda,2005,2005-2009,95000,30k-1L,"41,000 kms",41000,30k-60k,Petrol
+Nissan Micra XL,Nissan,2017,2014-2019,430000,1L-10L,"62,500 kms",62500,60k-1L,Diesel
+Honda City 1.5 S Inspire,Honda,2005,2005-2009,115000,1L-10L,"68,000 kms",68000,60k-1L,Petrol
+Maruti Suzuki Alto 800 Lxi,Maruti,2015,2014-2019,215000,1L-10L,"50,000 kms",50000,30k-60k,Petrol
+Maruti Suzuki Wagon R LX BS III,Maruti,2004,1999-2004,53000,30k-1L,"69,000 kms",69000,60k-1L,Petrol
+Maruti Suzuki Ertiga VDi,Maruti,2012,2009-2014,500000,1L-10L,"48,000 kms",48000,30k-60k,Diesel
+Tata Indica eV2 eXeta eGLX,Tata,2012,2009-2014,85000,30k-1L,"55,000 kms",55000,30k-60k,Diesel
+Maruti Suzuki Omni E 8 STR BS IV,Maruti,2013,2009-2014,165000,1L-10L,"25,000 kms",25000,10k-30k,Petrol
+Hyundai Eon Era Plus,Hyundai,2014,2009-2014,200000,1L-10L,"28,400 kms",28400,10k-30k,Petrol
+Hyundai Eon,Hyundai,2014,2009-2014,200000,1L-10L,"28,000 kms",28000,10k-30k,Petrol
+Maruti Suzuki Swift LDi,Maruti,2015,2014-2019,425000,1L-10L,"42,000 kms",42000,30k-60k,Diesel
+Hyundai Verna 1.6 CRDI SX Plus AT,Hyundai,2012,2009-2014,600000,1L-10L,"29,000 kms",29000,10k-30k,Diesel
+Chevrolet Tavera LS B3 10 Seats BSII,Chevrolet,2005,2005-2009,130000,1L-10L,"68,485 kms",68485,60k-1L,Diesel
+Tata Tiago Revotron XM,Tata,2018,2014-2019,430000,1L-10L,"3,500 kms",3500,0k-5k,Petrol
+Tata Tiago Revotorq XZ,Tata,2019,2014-2019,568500,1L-10L,0 kms,0,0k-5k,Petrol
+Maruti Suzuki Zen LXi BS III,Maruti,2006,2005-2009,71000,30k-1L,"32,000 kms",32000,30k-60k,Petrol
+Mahindra KUV100 K8 D 6 STR,Mahindra,2018,2014-2019,560000,1L-10L,"8,000 kms",8000,5k-10k,Diesel
+Ford EcoSport Titanium 1.5 TDCi,Ford,2014,2009-2014,590000,1L-10L,"34,000 kms",34000,30k-60k,Diesel
+Hindustan Motors Ambassador Classic Mark 4 – Befo,Hindustan,1995,>2004,750000,1L-10L,"37,000 kms",37000,30k-60k,Petrol
+Ford Fusion 1.4 TDCi Diesel,Ford,2007,2005-2009,125000,1L-10L,"85,455 kms",85455,60k-1L,Diesel
+Hyundai Santro Xing XL AT eRLX Euro III,Hyundai,2007,2005-2009,135000,1L-10L,"46,000 kms",46000,30k-60k,Petrol
+Hyundai Santro,Hyundai,2002,1999-2004,60000,30k-1L,"47,000 kms",47000,30k-60k,Petrol
+Fiat Linea Emotion 1.4 L T Jet Petrol,Fiat,2009,2005-2009,120000,1L-10L,"64,000 kms",64000,60k-1L,Petrol
+Ford Ikon 1.3 Flair Josh 100,Ford,2008,2005-2009,95000,30k-1L,"46,000 kms",46000,30k-60k,Petrol
+Maruti Suzuki Omni E 8 STR BS IV,Maruti,2017,2014-2019,240000,1L-10L,"8,000 kms",8000,5k-10k,Petrol
+Tata Indica V2 LS,Tata,2012,2009-2014,115000,1L-10L,"64,000 kms",64000,60k-1L,Diesel
+Mahindra Scorpio S4,Mahindra,2015,2014-2019,795000,1L-10L,"63,000 kms",63000,60k-1L,Diesel
+Hyundai Santro Xing XL eRLX Euro III,Hyundai,2007,2005-2009,55000,30k-1L,"65,000 kms",65000,60k-1L,Petrol
+Mahindra Xylo D2,Mahindra,2009,2005-2009,300000,1L-10L,"62,000 kms",62000,60k-1L,Diesel
+Hyundai Grand i10 Asta 1.2 Kappa VTVT,Hyundai,2014,2009-2014,320000,1L-10L,"41,000 kms",41000,30k-60k,Petrol
+Maruti Suzuki Alto 800 Lxi,Maruti,2015,2014-2019,265000,1L-10L,"14,000 kms",14000,10k-30k,Petrol
+Toyota Corolla,Toyota,2006,2005-2009,160000,1L-10L,"40,000 kms",40000,30k-60k,Petrol
+Hyundai Eon Magna,Hyundai,2017,2014-2019,300000,1L-10L,"1,600 kms",1600,0k-5k,Petrol
+Tata Sumo Grande MKII GX,Tata,2010,2009-2014,130000,1L-10L,"90,000 kms",90000,60k-1L,Diesel
+Maruti Suzuki Swift VDi,Maruti,2011,2009-2014,250000,1L-10L,"58,000 kms",58000,30k-60k,Diesel
+Volkswagen Polo Highline1.2L P,Volkswagen,2013,2009-2014,380000,1L-10L,"27,000 kms",27000,10k-30k,Petrol
+Maruti Suzuki Alto 800 Lx,Maruti,2003,1999-2004,42000,30k-1L,"60,000 kms",60000,30k-60k,Petrol
+Tata Tiago Revotron XZ,Tata,2017,2014-2019,400000,1L-10L,"31,000 kms",31000,30k-60k,Petrol
+Maruti Suzuki Swift LDi,Maruti,2009,2005-2009,120000,1L-10L,"90,000 kms",90000,60k-1L,Diesel
+Maruti Suzuki Swift VDi,Maruti,2009,2005-2009,120000,1L-10L,"90,000 kms",90000,60k-1L,Diesel
+Tata Indigo eCS,Tata,2016,2014-2019,130000,1L-10L,"1,50,000 kms",150000,1L-1.5L,Diesel
+Chevrolet Beat LS Diesel,Chevrolet,2014,2009-2014,189000,1L-10L,"31,000 kms",31000,30k-60k,Diesel
+Mahindra Xylo E8 BS IV,Mahindra,2011,2009-2014,365000,1L-10L,"43,000 kms",43000,30k-60k,Diesel
+Hyundai Eon D Lite Plus,Hyundai,2013,2009-2014,170000,1L-10L,"20,000 kms",20000,10k-30k,Petrol
+Tata Sumo Gold FX BSIII,Tata,2013,2009-2014,215000,1L-10L,"1,00,000 kms",100000,60k-1L,Petrol
+Tata Nano,Tata,2013,2009-2014,60000,30k-1L,"7,000 kms",7000,5k-10k,Petrol
+Hyundai Elite i20,Hyundai,2017,2014-2019,599999,1L-10L,"31,000 kms",31000,30k-60k,Petrol
+Hyundai i10 Magna 1.2 Kappa2,Hyundai,2009,2005-2009,400000,1L-10L,"33,000 kms",33000,30k-60k,Petrol
+Hyundai Creta,Hyundai,2016,2014-2019,900000,1L-10L,"60,000 kms",60000,30k-60k,Diesel
+Volkswagen Polo,Volkswagen,2013,2009-2014,299999,1L-10L,"48,000 kms",48000,30k-60k,Diesel
+Maruti Suzuki Dzire,Maruti,2014,2009-2014,374999,1L-10L,"33,000 kms",33000,30k-60k,Petrol
+Tata Bolt XM Petrol,Tata,2015,2014-2019,600000,1L-10L,"15,000 kms",15000,10k-30k,Petrol
+Maruti Suzuki Alto 800 Lx,Maruti,2005,2005-2009,70000,30k-1L,"47,000 kms",47000,30k-60k,Petrol
+Maruti Suzuki Alto,Maruti,2005,2005-2009,100000,30k-1L,"40,000 kms",40000,30k-60k,Petrol
+Maruti Suzuki Ritz,Maruti,2010,2009-2014,150000,1L-10L,"38,000 kms",38000,30k-60k,Diesel
+Maruti Suzuki Alto 800 Lxi,Maruti,2017,2014-2019,225000,1L-10L,"12,500 kms",12500,10k-30k,Petrol
+Maruti Suzuki Dzire,Maruti,2009,2005-2009,210000,1L-10L,"42,000 kms",42000,30k-60k,Petrol
+Hyundai i20 Asta,Hyundai,2014,2009-2014,425000,1L-10L,"31,000 kms",31000,30k-60k,Petrol
+Maruti Suzuki Swift Select Variant,Maruti,2008,2005-2009,162000,1L-10L,"60,000 kms",60000,30k-60k,Diesel
+Tata Indica V2 DLX BS III,Tata,2005,2005-2009,60000,30k-1L,"80,000 kms",80000,60k-1L,Diesel
+Mahindra Scorpio VLX 2.2 mHawk Airbag BSIV,Mahindra,2014,2009-2014,650000,1L-10L,"77,000 kms",77000,60k-1L,Diesel
+Toyota Innova 2.5 E 8 STR,Toyota,2012,2009-2014,750000,1L-10L,"75,000 kms",75000,60k-1L,Diesel
+Mahindra Xylo E8,Mahindra,2010,2009-2014,375000,1L-10L,"40,000 kms",40000,30k-60k,Diesel
+Hyundai i20 Magna 1.2,Hyundai,2011,2009-2014,230000,1L-10L,"47,000 kms",47000,30k-60k,Petrol
+Maruti Suzuki Omni,Maruti,2000,1999-2004,35999,30k-1L,"60,000 kms",60000,30k-60k,Petrol
+Mahindra KUV100,Mahindra,2016,2014-2019,380000,1L-10L,"26,500 kms",26500,10k-30k,Petrol
+Mahindra KUV100 K8 6 STR,Mahindra,2019,2014-2019,560000,1L-10L,"2,875 kms",2875,0k-5k,Petrol
+Datsun Go Plus,Datsun,2016,2014-2019,285000,1L-10L,"13,900 kms",13900,10k-30k,Petrol
+Ford Endeavor 4x4 Thunder Plus,Ford,2019,2014-2019,2900000,10L-30L,"9,000 kms",9000,5k-10k,Diesel
+Tata Indica V2,Tata,2005,2005-2009,39999,30k-1L,"80,000 kms",80000,60k-1L,Diesel
+Hyundai Santro Xing GL,Hyundai,2006,2005-2009,85000,30k-1L,"60,000 kms",60000,30k-60k,Petrol
+Maruti Suzuki Wagon R 1.0 VXi,Maruti,2016,2014-2019,395000,1L-10L,"20,000 kms",20000,10k-30k,Petrol
+Maruti Suzuki Swift Select Variant,Maruti,2008,2005-2009,175000,1L-10L,"58,000 kms",58000,30k-60k,Diesel
+Maruti Suzuki Alto 800 Lx,Maruti,2019,2014-2019,400000,1L-10L,"1,500 kms",1500,0k-5k,Petrol
+Toyota Innova 2.5 Z Diesel 7 Seater,Toyota,2011,2009-2014,750000,1L-10L,"75,000 kms",75000,60k-1L,Diesel
+Maruti Suzuki Alto 800,Maruti,2016,2014-2019,250000,1L-10L,"2,450 kms",2450,0k-5k,Petrol
+Maruti Suzuki Alto AX,Maruti,2019,2014-2019,425000,1L-10L,"1,625 kms",1625,0k-5k,Petrol
+Volkswagen Polo Highline1.2L P,Volkswagen,2017,2014-2019,525000,1L-10L,"45,000 kms",45000,30k-60k,Petrol
+Mahindra Logan,Mahindra,2009,2005-2009,130000,1L-10L,"65,000 kms",65000,60k-1L,Diesel
+Maruti Suzuki 800 Std BS III,Maruti,2000,1999-2004,30000,30k-1L,"33,400 kms",33400,30k-60k,Petrol
+Mahindra Scorpio,Mahindra,2011,2009-2014,475000,1L-10L,"60,123 kms",60123,60k-1L,Diesel
+Chevrolet Sail 1.2 LS,Chevrolet,2013,2009-2014,300000,1L-10L,"28,000 kms",28000,10k-30k,Petrol
+Hyundai Santro AE GLS Audio,Hyundai,2003,1999-2004,60000,30k-1L,"70,000 kms",70000,60k-1L,Petrol
+Maruti Suzuki Wagon R VXi Minor,Maruti,2006,2005-2009,100000,30k-1L,"7,000 kms",7000,5k-10k,Petrol
+Hyundai Eon,Hyundai,2018,2014-2019,260000,1L-10L,"25,000 kms",25000,10k-30k,Petrol
+Tata Manza,Tata,2015,2014-2019,100000,30k-1L,"1,00,000 kms",100000,60k-1L,Diesel
+Toyota Etios G,Toyota,2013,2009-2014,265000,1L-10L,"42,000 kms",42000,30k-60k,Petrol
+Toyota Qualis,Toyota,2003,1999-2004,180000,1L-10L,"1,00,000 kms",100000,60k-1L,Diesel
+Hyundai Santro Xing,Hyundai,2004,1999-2004,45000,30k-1L,"1,37,495 kms",137495,1L-1.5L,Petrol
+Tata Indica eV2 LS,Tata,2016,2014-2019,50500,30k-1L,"91,200 kms",91200,60k-1L,Diesel
+Honda City 1.5 S MT,Honda,2009,2005-2009,270000,1L-10L,"55,000 kms",55000,30k-60k,Petrol
+Tata Zest XE 75 PS Diesel,Tata,2017,2014-2019,290000,1L-10L,"1,20,000 kms",120000,1L-1.5L,Diesel
+Mahindra Quanto C4,Mahindra,2013,2009-2014,325000,1L-10L,"63,000 kms",63000,60k-1L,Diesel
+Tata Indigo eCS LX CR4 BS IV,Tata,2016,2014-2019,160000,1L-10L,"1,04,000 kms",104000,1L-1.5L,Diesel
+Maruti Suzuki Swift Dzire,Maruti,2016,2014-2019,350000,1L-10L,"1,46,000 kms",146000,1L-1.5L,Diesel
+Hyundai Elite i20,Hyundai,2011,2009-2014,290000,1L-10L,"40,000 kms",40000,30k-60k,Petrol
+Hyundai i20 Select Variant,Hyundai,2011,2009-2014,290000,1L-10L,"40,000 kms",40000,30k-60k,Petrol
+Chevrolet Tavera Neo,Chevrolet,2007,2005-2009,465000,1L-10L,"1,00,800 kms",100800,1L-1.5L,Diesel
+Maruti Suzuki Dzire,Maruti,2016,2014-2019,325000,1L-10L,"1,50,000 kms",150000,1L-1.5L,Diesel
+Hyundai Elite i20,Hyundai,2018,2014-2019,510000,1L-10L,"2,100 kms",2100,0k-5k,Petrol
+Honda City VX Petrol,Honda,2016,2014-2019,860000,1L-10L,"95,000 kms",95000,60k-1L,Petrol
+Maruti Suzuki Dzire,Maruti,2016,2014-2019,450000,1L-10L,"2,500 kms",2500,0k-5k,Diesel
+Hyundai Getz,Hyundai,2006,2005-2009,125000,1L-10L,"80,000 kms",80000,60k-1L,Petrol
+Mercedes Benz C Class 200 K MT,Mercedes,2006,2005-2009,500001,1L-10L,"15,000 kms",15000,10k-30k,Petrol
+Maruti Suzuki Alto LXi BS III,Maruti,2005,2005-2009,95000,30k-1L,"65,000 kms",65000,60k-1L,Petrol
+Skoda Fabia,Skoda,2009,2005-2009,110000,1L-10L,"45,000 kms",45000,30k-60k,Petrol
+Maruti Suzuki Ritz VXI ABS,Maruti,2011,2009-2014,270000,1L-10L,"50,000 kms",50000,30k-60k,Petrol
+Tata Indica V2 DLE BS III,Tata,2009,2005-2009,110000,1L-10L,"30,000 kms",30000,10k-30k,Diesel
+Toyota Corolla Altis,Toyota,2009,2005-2009,300000,1L-10L,"1,32,000 kms",132000,1L-1.5L,Petrol
+Tata Zest XM Diesel,Tata,2018,2014-2019,260000,1L-10L,"27,000 kms",27000,10k-30k,Diesel
+Mahindra Quanto C8,Mahindra,2013,2009-2014,390000,1L-10L,"40,000 kms",40000,30k-60k,Diesel
