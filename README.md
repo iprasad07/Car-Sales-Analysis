@@ -1,2 +1,1 @@
-# Car-Sales-Analysis
-Data Analyst | Projects on Data Cleaning, Transformation &amp; Visualization using Excel, SQL,  Power BI  | Focused on Insights, Business Growth &amp; Data-Driven Decisions
+This report analyzes car sales data through Excel (cleaning & transformation) and Power BI (visualization). It highlights KPIs, sales performance, top brands, fuel trends, and year-wise insights while overcoming challenges like missing values and inconsistent data.
